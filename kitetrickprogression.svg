@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="527.94876"
-     inkscape:cy="388.14734"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="602.99053"
+     inkscape:cy="429.18373"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -542,7 +542,7 @@
     </g>
     <g
        id="g6013"
-       transform="translate(68.686748,61.86751)">
+       transform="translate(68.686748,61.204271)">
       <rect
          style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5235"
@@ -566,7 +566,7 @@
     </g>
     <g
        id="g6028"
-       transform="translate(68.686748,-19.537985)">
+       transform="translate(68.686748,-20.864519)">
       <rect
          ry="6.2205539"
          rx="6.3852572"
@@ -590,7 +590,7 @@
     </g>
     <g
        id="g6018"
-       transform="translate(68.686748,201.43093)">
+       transform="translate(68.686748,198.77777)">
       <rect
          ry="6.2205539"
          rx="6.3852572"
@@ -614,7 +614,7 @@
     </g>
     <g
        id="g6033"
-       transform="translate(68.686748,120.02538)">
+       transform="translate(68.686748,116.70893)">
       <rect
          ry="6.2205539"
          rx="6.3852572"
@@ -638,7 +638,7 @@
     </g>
     <g
        id="g6043"
-       transform="translate(68.686748,86.592321)">
+       transform="translate(68.686748,82.612604)">
       <rect
          style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5227"
@@ -662,7 +662,7 @@
     </g>
     <g
        id="g6038"
-       transform="translate(68.686748,-52.971026)">
+       transform="translate(68.686748,-54.960887)">
       <rect
          style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5336"
@@ -686,7 +686,7 @@
     </g>
     <g
        id="g6023"
-       transform="translate(68.686748,-96.589419)">
+       transform="translate(68.686748,-96.589423)">
       <rect
          ry="6.2205539"
          rx="6.3852572"
@@ -710,7 +710,7 @@
     </g>
     <g
        id="g6048"
-       transform="translate(68.686748,101.1318)">
+       transform="translate(68.686748,96.488787)">
       <rect
          style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5403"
@@ -734,7 +734,7 @@
     </g>
     <g
        id="g6053"
-       transform="translate(68.686748,115.67121)">
+       transform="translate(68.686748,110.36492)">
       <rect
          style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5367"
@@ -2077,5 +2077,25 @@
        id="path4043"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        sodipodi:type="star" />
+    <rect
+       style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4047"
+       width="103.21267"
+       height="35.683296"
+       x="268.19775"
+       y="938.45526"
+       rx="6.3852572"
+       ry="6.2205539" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4049"
+       y="959.30542"
+       x="319.67249"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="959.30542"
+         x="319.67249"
+         id="tspan4051"
+         sodipodi:role="line">Spike</tspan></text>
   </g>
 </svg>
