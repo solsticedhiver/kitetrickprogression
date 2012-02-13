@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="623.30081"
-     inkscape:cy="359.14647"
+     inkscape:zoom="2"
+     inkscape:cx="443.95995"
+     inkscape:cy="215.18528"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1286,36 +1286,36 @@
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="891.91846"
-       y="408.67953"
+       x="903.01611"
+       y="366.17953"
        id="text6576"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6578"
-         x="891.91846"
-         y="408.67953">(1) Flic-Flac</tspan></text>
+         x="903.01611"
+         y="366.17953">(1) Flic-Flac</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="939.59424"
-       y="429.06345"
+       x="950.69189"
+       y="386.56348"
        id="text6580"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6582"
-         x="939.59424"
-         y="429.06345">(2) Flip-Flap ou Flic-Flac inversé</tspan></text>
+         x="950.69189"
+         y="386.56348">(2) Flip-Flap ou Flic-Flac inversé</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
-       x="895.12158"
-       y="470.61551"
+       x="906.21924"
+       y="428.11551"
        id="text6603"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6605"
-         x="895.12158"
-         y="470.61551">(4) Superstart</tspan></text>
+         x="906.21924"
+         y="428.11551">(4) Superstart</tspan></text>
     <path
        sodipodi:type="star"
        style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#57d4fe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -1969,14 +1969,14 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="881.00049"
-       y="450.12268"
+       x="904.50049"
+       y="407.62271"
        id="text4488"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4490"
-         x="881.00049"
-         y="450.12268">(3) Slide</tspan></text>
+         x="904.50049"
+         y="407.62271">(3) Side Slide</tspan></text>
     <path
        inkscape:transform-center-x="-1.767767"
        transform="translate(-24.676697,776.38673)"
