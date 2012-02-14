@@ -15,7 +15,6 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   inkscape:export-filename="/home/solstice/test2.png"
    inkscape:export-xdpi="150.02911"
    inkscape:export-ydpi="150.02911"
    sodipodi:docname="kitetrickprogression.svg">
@@ -68,7 +67,7 @@
             <rdf:li>progression</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:language>fr-FR</dc:language>
+        <dc:language>en-US</dc:language>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
         <dc:description>Rework of http://www.rscreation.be/cerf-volant-acrobatique/cerf-volant-acrobatique-freestyle/102-la-progression-de-figure-en-figure.html</dc:description>
