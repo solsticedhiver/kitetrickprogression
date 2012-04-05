@@ -33,7 +33,7 @@
      inkscape:cx="530.97611"
      inkscape:cy="439.80713"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="816"
@@ -364,34 +364,29 @@
        y="460.43918"
        rx="9.4131823"
        ry="9.4131823" />
-    <a
-       id="a3279"
-       xlink:href="http://reeddesign.co.uk/kites/tricks/turtle.html">
-      <g
-         transform="translate(20.986937,56.385509)"
-         id="g5983">
-        <rect
-           style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="rect2995"
-           width="103.21267"
-           height="35.683296"
-           x="47.606869"
-           y="423.47211"
-           rx="6.3852572"
-           ry="6.2205539" />
-        <text
-           xml:space="preserve"
-           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-           x="99.450851"
-           y="445.26752"
-           id="text3765"
-           sodipodi:linespacing="125%"><tspan
-             id="tspan3273"
-             sodipodi:role="line"
-             x="99.450851"
-             y="445.26752">Turtle</tspan></text>
-      </g>
-    </a>
+    <g
+       id="g3708">
+      <rect
+         ry="6.2205539"
+         rx="6.3852572"
+         y="479.8576"
+         x="68.593803"
+         height="35.683296"
+         width="103.21267"
+         id="rect2995"
+         style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3765"
+         y="501.65302"
+         x="120.43779"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         xml:space="preserve"><tspan
+           y="501.65302"
+           x="120.43779"
+           sodipodi:role="line"
+           id="tspan3273">Turtle</tspan></text>
+    </g>
     <g
        id="g6550"
        transform="translate(16.970563,4.2426407)">
@@ -686,34 +681,29 @@
            id="tspan5217"
            sodipodi:role="line">2-point Landing</tspan></text>
     </g>
-    <a
-       id="a4208"
-       xlink:href="http://reeddesign.co.uk/kites/tricks/stall.html">
-      <g
-         transform="translate(1.4999978,-35.757834)"
-         id="g3325">
-        <rect
-           ry="6.2205539"
-           rx="6.3852572"
-           y="567.3371"
-           x="268.19775"
-           height="35.683296"
-           width="103.21267"
-           id="rect5336"
-           style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-        <text
-           xml:space="preserve"
-           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="319.87659"
-           y="589.2796"
-           id="text5338"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan5340"
-             x="319.87659"
-             y="589.2796">Stall</tspan></text>
-      </g>
-    </a>
+    <g
+       id="g3720">
+      <rect
+         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="rect5336"
+         width="103.21267"
+         height="35.683296"
+         x="269.69775"
+         y="531.57928"
+         rx="6.3852572"
+         ry="6.2205539" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5338"
+         y="553.52179"
+         x="321.37659"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="553.52179"
+           x="321.37659"
+           id="tspan5340"
+           sodipodi:role="line">Stall</tspan></text>
+    </g>
     <g
        id="g6023"
        transform="translate(70.18675,-125.97424)">
