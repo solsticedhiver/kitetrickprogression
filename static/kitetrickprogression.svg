@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="530.97611"
-     inkscape:cy="439.80713"
+     inkscape:zoom="4"
+     inkscape:cx="938.46603"
+     inkscape:cy="395.88244"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -94,7 +94,149 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-308.2677)"
-     style="opacity:1">
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#57d4fe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 70.003572,609.00623 c -11,0 -17.591883,1.20711 -19.591883,19.20711 -1.5,16 -5.707107,106.74116 -4.707107,130.24116 1,16.5 2.42031,27.32843 26.42031,27.32843"
+       id="path4492"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#57d4fe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path6623"
+       sodipodi:sides="3"
+       sodipodi:cx="83.842659"
+       sodipodi:cy="68.302429"
+       sodipodi:r1="7.0710678"
+       sodipodi:r2="3.5355339"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
+       transform="translate(-24.323144,716.98976)"
+       inkscape:transform-center-x="-1.767767" />
+    <path
+       inkscape:transform-center-x="-1.767767"
+       transform="translate(777.90262,532.59816)"
+       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0"
+       sodipodi:r2="3.5355339"
+       sodipodi:r1="7.0710678"
+       sodipodi:cy="68.302429"
+       sodipodi:cx="83.842659"
+       sodipodi:sides="3"
+       id="path10316"
+       style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#fb89fe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       inkscape:transform-center-x="-1.767767"
+       transform="translate(577.20039,605.17605)"
+       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0"
+       sodipodi:r2="3.5355339"
+       sodipodi:r1="7.0710678"
+       sodipodi:cy="68.302429"
+       sodipodi:cx="83.842659"
+       sodipodi:sides="3"
+       id="path10278"
+       style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#fec157;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path10296"
+       sodipodi:sides="3"
+       sodipodi:cx="83.842659"
+       sodipodi:cy="68.302429"
+       sodipodi:r1="7.0710678"
+       sodipodi:r2="3.5355339"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
+       transform="translate(578.12897,588.5683)"
+       inkscape:transform-center-x="-1.767767" />
+    <path
+       inkscape:transform-center-x="-1.767767"
+       transform="translate(578.35087,534.46726)"
+       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0"
+       sodipodi:r2="3.5355339"
+       sodipodi:r1="7.0710678"
+       sodipodi:cy="68.302429"
+       sodipodi:cx="83.842659"
+       sodipodi:sides="3"
+       id="path10266"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#fec157;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path10276"
+       sodipodi:sides="3"
+       sodipodi:cx="83.842659"
+       sodipodi:cy="68.302429"
+       sodipodi:r1="7.0710678"
+       sodipodi:r2="3.5355339"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
+       transform="translate(579.23296,479.61497)"
+       inkscape:transform-center-x="-1.767767" />
+    <path
+       inkscape:transform-center-x="-1.767767"
+       transform="translate(577.50878,285.20428)"
+       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0"
+       sodipodi:r2="3.5355339"
+       sodipodi:r1="7.0710678"
+       sodipodi:cy="68.302429"
+       sodipodi:cx="83.842659"
+       sodipodi:sides="3"
+       id="path6621"
+       style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#57d4fe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path10268"
+       sodipodi:sides="3"
+       sodipodi:cx="83.842659"
+       sodipodi:cy="68.302429"
+       sodipodi:r1="7.0710678"
+       sodipodi:r2="3.5355339"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
+       transform="translate(578.46817,356.40122)"
+       inkscape:transform-center-x="-1.767767" />
     <path
        style="fill:none;stroke:#fec157;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
        d="m 370.37031,416.45833 c 81.56092,-2.91708 60.03242,-28.31807 101.05548,-27.62413"
@@ -139,12 +281,6 @@
        style="fill:none;stroke:#57d4fe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 71.417785,495.86915 c -16.970562,1.41421 -40.305086,6.36395 -42.426407,33.23401 -2.121321,24.74874 -6.363961,259.50819 -5.656854,289.20668 -0.24457,29.90162 32.539379,25.667 45.961941,26.16295"
        id="path4494"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:none;stroke:#57d4fe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 70.003572,609.00623 c -11,0 -17.591883,1.20711 -19.591883,19.20711 -1.5,16 -5.707107,106.74116 -4.707107,130.24116 1,16.5 2.42031,27.32843 26.42031,27.32843"
-       id="path4492"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
@@ -364,552 +500,541 @@
        y="460.43918"
        rx="9.4131823"
        ry="9.4131823" />
-    <g
-       id="g3708">
-      <rect
-         ry="6.2205539"
-         rx="6.3852572"
-         y="479.8576"
-         x="68.593803"
-         height="35.683296"
-         width="103.21267"
-         id="rect2995"
-         style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3765"
-         y="501.65302"
-         x="120.43779"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-         xml:space="preserve"><tspan
-           y="501.65302"
+    <a
+       id="a8496"
+       xlink:href="http://reeddesign.co.uk/kites/tricks/turtle.html">
+      <g
+         id="g5401">
+        <rect
+           style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect2995"
+           width="103.21267"
+           height="35.683296"
+           x="68.593803"
+           y="479.8576"
+           rx="6.3852572"
+           ry="6.2205539" />
+        <text
+           xml:space="preserve"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
            x="120.43779"
-           sodipodi:role="line"
-           id="tspan3273">Turtle</tspan></text>
-    </g>
+           y="501.65302"
+           id="text3765"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan3273"
+             sodipodi:role="line"
+             x="120.43779"
+             y="501.65302">Turtle</tspan></text>
+      </g>
+    </a>
     <g
-       id="g6550"
-       transform="translate(16.970563,4.2426407)">
+       id="g5062">
       <rect
-         style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5219"
          width="103.21267"
          height="35.683296"
-         x="51.623241"
-         y="532.9364"
+         x="68.593803"
+         y="537.17902"
          rx="6.3852572"
          ry="6.2205539" />
       <text
          sodipodi:linespacing="125%"
          id="text3777"
-         y="555.64008"
-         x="103.03257"
+         y="559.88269"
+         x="120.00314"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          xml:space="preserve"><tspan
-           y="555.64008"
-           x="103.03257"
+           y="559.88269"
+           x="120.00314"
            id="tspan3779"
            sodipodi:role="line">Pancake<tspan
    style="font-size:65.00091553%;font-weight:normal;baseline-shift:super;-inkscape-font-specification:DejaVu Sans"
    id="tspan6544" /></tspan></text>
     </g>
     <a
-       id="a3304"
+       id="a4722"
        xlink:href="http://reeddesign.co.uk/kites/tricks/axel.html">
       <g
-         transform="translate(20.986937,73.766511)"
-         id="g5988">
+         id="g4717">
         <rect
-           style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5221"
            width="103.21267"
            height="35.683296"
-           x="47.606869"
-           y="520.73395"
+           x="68.593803"
+           y="594.50049"
            rx="6.3852572"
            ry="6.2205539" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-           x="99.656113"
-           y="542.69952"
+           x="120.64305"
+           y="616.46606"
            id="text3781"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3783"
-             x="99.656113"
-             y="542.69952">Axel</tspan></text>
+             x="120.64305"
+             y="616.46606">Axel</tspan></text>
       </g>
     </a>
     <a
-       id="a3267"
+       id="a5748"
        xlink:href="http://reeddesign.co.uk/kites/tricks/halfaxel.html">
       <g
-         transform="translate(16.970563,4.2426407)"
-         id="g4021">
+         id="g5743">
         <rect
            ry="6.2205539"
            rx="6.3852572"
-           y="647.57922"
-           x="51.623241"
+           y="651.82184"
+           x="68.593803"
            height="35.683296"
            width="103.21267"
            id="rect5223"
-           style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="103.19176"
-           y="669.54474"
+           x="120.16232"
+           y="673.78735"
            id="text3785"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3787"
-             x="103.19176"
-             y="669.54474">Half Axel</tspan></text>
+             x="120.16232"
+             y="673.78735">Half Axel</tspan></text>
       </g>
     </a>
     <a
-       id="a3310"
+       id="a6434"
        xlink:href="http://reeddesign.co.uk/kites/tricks/cointoss.html">
       <g
-         transform="translate(20.986937,99.837849)"
-         id="g6003">
+         id="g6429">
         <rect
            ry="6.2205539"
            rx="6.3852572"
-           y="666.62683"
-           x="47.606869"
+           y="766.46466"
+           x="68.593803"
            height="35.683296"
            width="103.21267"
            id="rect5245"
-           style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="99.2024"
-           y="688.59241"
+           x="120.18934"
+           y="788.43024"
            id="text5247"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5249"
-             x="99.2024"
-             y="688.59241">Coin Toss</tspan></text>
+             x="120.18934"
+             y="788.43024">Coin Toss</tspan></text>
       </g>
     </a>
     <g
-       id="g5998"
-       transform="translate(20.986937,91.147427)">
+       id="g6087">
       <rect
-         style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5239"
          width="103.21267"
          height="35.683296"
-         x="47.606869"
-         y="617.99585"
+         x="68.593803"
+         y="709.14325"
          rx="6.3852572"
          ry="6.2205539" />
       <text
          xml:space="preserve"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-         x="99.315819"
-         y="639.96143"
+         x="120.30276"
+         y="731.10883"
          id="text5253"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan5255"
-           x="99.315819"
-           y="639.96143">Twist</tspan></text>
+           x="120.30276"
+           y="731.10883">Twist</tspan></text>
     </g>
     <a
-       id="a3273"
+       id="a6782"
        xlink:href="http://reeddesign.co.uk/kites/tricks/insane.html">
       <g
-         transform="translate(20.986937,108.52835)"
-         id="g6008">
+         id="g6777">
         <rect
-           style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5237"
            width="103.21267"
            height="35.683296"
-           x="47.606869"
-           y="715.25775"
+           x="68.593803"
+           y="823.78607"
            rx="6.3852572"
            ry="6.2205539" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="98.970154"
-           y="737.05316"
+           x="119.95709"
+           y="845.58148"
            id="text5257"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5259"
-             x="98.970154"
-             y="737.05316">Insane</tspan></text>
+             x="119.95709"
+             y="845.58148">Insane</tspan></text>
       </g>
     </a>
     <a
-       id="a3285"
+       id="a7468"
        xlink:href="http://reeddesign.co.uk/kites/tricks/fade.html">
       <g
-         transform="translate(70.18675,29.695048)"
-         id="g6013">
+         id="g7463">
         <rect
            ry="6.2205539"
            rx="6.3852572"
-           y="382.43552"
-           x="199.511"
+           y="412.13055"
+           x="269.69775"
            height="35.683296"
            width="103.21267"
            id="rect5235"
-           style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="250.87427"
-           y="404.40109"
+           x="321.061"
+           y="434.09613"
            id="text3795"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3797"
-             x="250.87427"
-             y="404.40109">Fade</tspan></text>
+             x="321.061"
+             y="434.09613">Fade</tspan></text>
       </g>
     </a>
     <a
-       id="a4124"
+       id="a7816"
        xlink:href="http://reeddesign.co.uk/kites/tricks/rollingsusan.html">
       <g
-         transform="translate(70.18675,-54.498032)"
-         id="g6028">
+         id="g7811">
         <rect
-           style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5233"
            width="103.21267"
            height="35.683296"
-           x="199.511"
-           y="526.35297"
+           x="269.69775"
+           y="471.85492"
            rx="6.3852572"
            ry="6.2205539" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="251.0471"
-           y="547.20319"
+           x="321.23386"
+           y="492.70514"
            id="text3823"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3825"
-             x="251.0471"
-             y="547.20319">Rolling Susan</tspan></text>
+             x="321.23386"
+             y="492.70514">Rolling Susan</tspan></text>
       </g>
     </a>
     <a
-       id="a4234"
+       id="a8854"
        xlink:href="http://reeddesign.co.uk/kites/tricks/cascade.html">
       <g
-         transform="translate(70.18675,220.61995)"
-         id="g6018">
+         id="g8849">
         <rect
-           style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5229"
            width="103.21267"
            height="35.683296"
-           x="199.511"
-           y="430.40799"
+           x="269.69775"
+           y="651.02795"
            rx="6.3852572"
            ry="6.2205539" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="251.31177"
-           y="452.37357"
+           x="321.4985"
+           y="672.99353"
            id="text5197"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5199"
-             x="251.31177"
-             y="452.37357">Axel Cascade</tspan></text>
+             x="321.4985"
+             y="672.99353">Axel Cascade</tspan></text>
       </g>
     </a>
     <g
-       id="g6033"
-       transform="translate(70.18675,375.32415)">
+       id="g10555">
       <rect
          ry="6.2205539"
          rx="6.3852572"
-         y="574.3255"
-         x="199.511"
+         y="949.64966"
+         x="269.69775"
          height="35.683296"
          width="103.21267"
          id="rect5225"
-         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5209"
-         y="595.44037"
-         x="250.87427"
+         y="970.76453"
+         x="321.061"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="595.44037"
-           x="250.87427"
+           y="970.76453"
+           x="321.061"
            id="tspan5211"
            sodipodi:role="line">Pinwheel</tspan></text>
     </g>
     <g
-       id="g6043"
-       transform="translate(70.18675,40.481776)">
+       id="g9195">
       <rect
-         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5227"
          width="103.21267"
          height="35.683296"
-         x="199.511"
-         y="670.27051"
+         x="269.69775"
+         y="710.75226"
          rx="6.3852572"
          ry="6.2205539" />
       <text
          sodipodi:linespacing="125%"
          id="text5215"
-         y="691.38538"
-         x="250.87427"
+         y="731.86713"
+         x="321.061"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="691.38538"
-           x="250.87427"
+           y="731.86713"
+           x="321.061"
            id="tspan5217"
            sodipodi:role="line">2-point Landing</tspan></text>
     </g>
-    <g
-       id="g3720">
-      <rect
-         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="rect5336"
-         width="103.21267"
-         height="35.683296"
-         x="269.69775"
-         y="531.57928"
-         rx="6.3852572"
-         ry="6.2205539" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text5338"
-         y="553.52179"
-         x="321.37659"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-         xml:space="preserve"><tspan
-           y="553.52179"
+    <a
+       id="a8490"
+       xlink:href="http://reeddesign.co.uk/kites/tricks/stall.html">
+      <g
+         id="g8155">
+        <rect
+           ry="6.2205539"
+           rx="6.3852572"
+           y="531.57928"
+           x="269.69775"
+           height="35.683296"
+           width="103.21267"
+           id="rect5336"
+           style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
            x="321.37659"
-           id="tspan5340"
-           sodipodi:role="line">Stall</tspan></text>
-    </g>
+           y="553.52179"
+           id="text5338"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5340"
+             x="321.37659"
+             y="553.52179">Stall</tspan></text>
+      </g>
+    </a>
     <g
-       id="g6023"
-       transform="translate(70.18675,-125.97424)">
+       id="g7121">
       <rect
          ry="6.2205539"
          rx="6.3852572"
-         y="478.38049"
-         x="199.511"
+         y="352.40625"
+         x="269.69775"
          height="35.683296"
          width="103.21267"
          id="rect5369"
-         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5371"
-         y="500.28662"
-         x="251.23346"
+         y="374.31238"
+         x="321.4202"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="500.28662"
-           x="251.23346"
+           y="374.31238"
+           x="321.4202"
            id="tspan5373"
            sodipodi:role="line">360°</tspan></text>
     </g>
     <g
-       id="g6048"
-       transform="translate(70.18675,52.233653)">
+       id="g9535">
       <rect
-         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5403"
          width="103.21267"
          height="35.683296"
-         x="199.511"
-         y="718.24298"
+         x="269.69775"
+         y="770.47662"
          rx="6.3852572"
          ry="6.2205539" />
       <text
          xml:space="preserve"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-         x="250.86346"
-         y="739.0932"
+         x="321.0502"
+         y="791.32684"
          id="text5405"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan5407"
-           x="250.86346"
-           y="739.0932">Rolling-up</tspan></text>
+           x="321.0502"
+           y="791.32684">Rolling-up</tspan></text>
     </g>
     <g
-       id="g6053"
-       transform="translate(70.18675,63.98545)">
+       id="g9875">
       <rect
-         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5367"
          width="103.21267"
          height="35.683296"
-         x="199.511"
-         y="766.21552"
+         x="269.69775"
+         y="830.20099"
          rx="6.3852572"
          ry="6.2205539" />
       <text
          sodipodi:linespacing="125%"
          id="text5409"
-         y="787.06567"
-         x="251.07951"
+         y="851.05115"
+         x="321.26627"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="787.06567"
-           x="251.07951"
+           y="851.05115"
+           x="321.26627"
            id="tspan5411"
            sodipodi:role="line">Refueling</tspan></text>
     </g>
     <g
-       id="g3320"
-       transform="translate(0.49999784,-30.033492)">
+       id="g8505">
       <rect
          ry="6.2205539"
          rx="6.3852572"
-         y="621.3371"
-         x="269.19775"
+         y="591.30359"
+         x="269.69775"
          height="35.683296"
          width="103.21267"
          id="rect3316"
-         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5423"
-         y="643.2796"
-         x="320.76648"
+         y="613.24609"
+         x="321.26648"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="643.2796"
-           x="320.76648"
+           y="613.24609"
+           x="321.26648"
            id="tspan5425"
            sodipodi:role="line">Double axel</tspan></text>
     </g>
     <a
-       id="a4118"
+       id="a11258"
        xlink:href="http://reeddesign.co.uk/kites/tricks/540.html">
       <g
-         transform="translate(89.62655,55.692144)"
-         id="g6103">
+         id="g11253">
         <rect
-           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5432"
            width="103.21267"
            height="35.683296"
-           x="379.93198"
-           y="369.91864"
+           x="469.55853"
+           y="425.61078"
            rx="6.3852572"
            ry="6.2205539" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="431.59769"
-           y="391.8248"
+           x="521.22424"
+           y="447.51694"
            id="text5434"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5436"
-             x="431.59769"
-             y="391.8248">540°</tspan></text>
+             x="521.22424"
+             y="447.51694">540°</tspan></text>
       </g>
     </a>
     <a
-       id="a3291"
+       id="a11608"
        xlink:href="http://reeddesign.co.uk/kites/tricks/lazysusan.html">
       <g
-         transform="translate(89.62655,62.281829)"
-         id="g6098">
+         id="g11603">
         <rect
-           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5443"
            width="103.21267"
            height="35.683296"
-           x="379.93198"
-           y="417.01892"
+           x="469.55853"
+           y="479.30075"
            rx="6.3852572"
            ry="6.2205539" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="431.46811"
-           y="437.77188"
+           x="521.09467"
+           y="500.05371"
            id="text5445"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5447"
-             x="431.46811"
-             y="437.77188">Lazy Susan</tspan></text>
+             x="521.09467"
+             y="500.05371">Lazy Susan</tspan></text>
       </g>
     </a>
     <a
-       id="a4136"
+       id="a11958"
        xlink:href="http://reeddesign.co.uk/kites/tricks/flapjack.html">
       <g
-         transform="translate(25.340847,24.196174)"
-         id="g6534">
+         id="g11953">
         <rect
-           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5462"
            width="103.21267"
            height="35.683296"
-           x="444.21768"
-           y="508.79459"
+           x="469.55853"
+           y="532.99078"
            rx="6.3852572"
            ry="6.2205539" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="495.21634"
-           y="529.68805"
+           x="520.55719"
+           y="553.88422"
            id="text5464"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5466"
-             x="495.21634"
-             y="529.68805">Flapjack</tspan></text>
+             x="520.55719"
+             y="553.88422">Flapjack</tspan></text>
       </g>
     </a>
     <a
-       id="a3297"
+       id="a10907"
        xlink:href="http://reeddesign.co.uk/kites/tricks/flicflac.html">
       <g
-         transform="translate(25.340847,-191.24683)"
-         id="g6556">
+         id="g10901">
         <rect
-           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5473"
            width="103.21267"
            height="35.683296"
-           x="444.21768"
-           y="563.1676"
+           x="469.55853"
+           y="371.92078"
            rx="6.3852572"
            ry="6.2205539" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="495.62701"
-           y="585.87128"
+           x="520.96783"
+           y="394.62445"
            id="text5475"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5477"
-             x="495.62701"
-             y="585.87128">Flic-Flac<tspan
+             x="520.96783"
+             y="394.62445">Flic-Flac<tspan
    style="font-size:65.00091553%;font-weight:normal;baseline-shift:super;-inkscape-font-specification:DejaVu Sans"
    id="tspan6542" /></tspan></text>
       </g>
@@ -923,426 +1048,410 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5488"
-         x="21.312983"
-         y="288.05841"><tspan
+         x="0"
+         y="0"><tspan
            id="tspan4476"
            style="font-size:65.00091553%;font-weight:normal;baseline-shift:super;-inkscape-font-specification:DejaVu Sans" /></tspan></text>
     <a
-       id="a4112"
+       id="a12308"
        xlink:href="http://reeddesign.co.uk/kites/tricks/kombo.html">
       <g
-         transform="translate(89.62655,-65.839511)"
-         id="g6073">
+         id="g12303">
         <rect
-           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5495"
            width="103.21267"
            height="35.683296"
-           x="379.93198"
-           y="652.52026"
+           x="469.55853"
+           y="586.68073"
            rx="6.3852572"
            ry="6.2205539" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="431.50317"
-           y="674.48584"
+           x="521.1297"
+           y="608.6463"
            id="text5497"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5499"
-             x="431.50317"
-             y="674.48584">Kombo</tspan></text>
+             x="521.1297"
+             y="608.6463">Kombo</tspan></text>
       </g>
     </a>
     <g
-       id="g6068"
-       transform="translate(89.62655,-59.249796)">
+       id="g12649">
       <rect
          ry="6.2205539"
          rx="6.3852572"
-         y="699.62054"
-         x="379.93198"
+         y="640.37073"
+         x="469.55853"
          height="35.683296"
          width="103.21267"
          id="rect5506"
-         style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5508"
-         y="720.3006"
-         x="431.83264"
+         y="661.05078"
+         x="521.45917"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="720.3006"
-           x="431.83264"
+           y="661.05078"
+           x="521.45917"
            id="tspan5510"
            sodipodi:role="line">Yo-Yo</tspan></text>
     </g>
     <a
-       id="a4178"
+       id="a15754"
        xlink:href="http://reeddesign.co.uk/kites/tricks/backspin.html">
       <g
-         transform="translate(0.4999967,2.3192253)"
-         id="g3299">
+         id="g15749">
         <rect
            ry="6.2205539"
            rx="6.3852572"
-           y="763.56781"
-           x="669.9057"
+           y="765.88702"
+           x="670.4057"
            height="34.427345"
            width="125.29301"
            id="rect3297"
-           style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="732.48236"
-           y="783.81616"
+           x="732.98236"
+           y="786.13538"
            id="text5519"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5521"
-             x="732.48236"
-             y="783.81616">Backspin</tspan></text>
+             x="732.98236"
+             y="786.13538">Backspin</tspan></text>
       </g>
     </a>
     <a
-       id="a4130"
+       id="a13688"
        xlink:href="http://reeddesign.co.uk/kites/tricks/slotmachine.html">
       <g
-         transform="translate(89.62655,7.6195934)"
-         id="g6058">
+         id="g13683">
         <rect
-           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5528"
            width="103.21267"
            height="35.683296"
-           x="379.93198"
-           y="793.82111"
+           x="469.55853"
+           y="801.44067"
            rx="6.3852572"
            ry="6.2205539" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="431.40594"
-           y="815.78668"
+           x="521.03247"
+           y="823.40625"
            id="text5530"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5532"
-             x="431.40594"
-             y="815.78668">Slot Machine</tspan></text>
+             x="521.03247"
+             y="823.40625">Slot Machine</tspan></text>
       </g>
     </a>
     <g
-       id="g3333"
-       transform="translate(1.4999978,-43.911788)">
+       id="g10215">
       <rect
-         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect3318"
          width="103.21267"
          height="35.683296"
-         x="268.19775"
-         y="933.8371"
+         x="269.69775"
+         y="889.92529"
          rx="6.3852572"
          ry="6.2205539" />
       <text
          sodipodi:linespacing="125%"
          id="text5541"
-         y="955.7796"
-         x="319.73425"
+         y="911.8678"
+         x="321.23425"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="955.7796"
-           x="319.73425"
+           y="911.8678"
+           x="321.23425"
            id="tspan5543"
            sodipodi:role="line">Dead Launch</tspan></text>
     </g>
     <g
-       id="g6083"
-       transform="translate(89.62655,296.81092)">
+       id="g14029">
       <rect
          ry="6.2205539"
          rx="6.3852572"
-         y="558.31976"
-         x="379.93198"
+         y="855.13068"
+         x="469.55853"
          height="35.683296"
          width="103.21267"
          id="rect5550"
-         style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5552"
-         y="579.62903"
-         x="431.50586"
+         y="876.43994"
+         x="521.13239"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="579.62903"
-           x="431.50586"
+           y="876.43994"
+           x="521.13239"
            id="tspan5554"
            sodipodi:role="line">Insane (R-L)</tspan></text>
     </g>
     <g
-       id="g3304"
-       transform="translate(1.9999967,-2.6384354)">
+       id="g15404">
       <rect
          ry="6.2205539"
          rx="6.3852572"
-         y="708.56781"
-         x="668.4057"
+         y="705.92938"
+         x="670.4057"
          height="34.427345"
          width="125.29301"
          id="rect5756"
-         style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5602"
-         y="730.64349"
-         x="730.85626"
+         y="728.00507"
+         x="732.85626"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
            id="tspan5606"
-           y="730.64349"
-           x="730.85626"
+           y="728.00507"
+           x="732.85626"
            sodipodi:role="line">K2000<tspan
    id="tspan6595"
    style="font-size:65.00091553%;font-weight:normal;baseline-shift:super;-inkscape-font-specification:DejaVu Sans">(4)</tspan></tspan></text>
     </g>
     <a
-       id="a4186"
+       id="a3670"
        xlink:href="http://reeddesign.co.uk/kites/tricks/multilazy.html">
       <g
-         transform="matrix(0.79013525,0,0,0.79013525,98.68642,146.91629)"
-         id="g5813">
+         id="g3336">
         <rect
            style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5752"
-           width="158.57159"
-           height="43.571461"
-           x="723.57141"
-           y="328.07648"
-           rx="8.0812206"
-           ry="7.8727713" />
+           width="125.29301"
+           height="34.427345"
+           x="670.4057"
+           y="406.14108"
+           rx="6.3852572"
+           ry="6.2205539" />
         <text
            xml:space="preserve"
-           style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="802.34448"
-           y="353.66983"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+           x="732.64709"
+           y="426.36328"
            id="text5571"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5573"
-             x="802.34448"
-             y="353.66983">Multilazy</tspan></text>
+             x="732.64709"
+             y="426.36328">Multilazy</tspan></text>
       </g>
     </a>
     <a
-       id="a4202"
+       id="a16784"
        xlink:href="http://reeddesign.co.uk/kites/tricks/comet.html">
       <g
-         transform="matrix(0.79013525,0,0,0.79013525,90.478235,643.0778)"
-         id="g5823">
+         id="g16779">
         <rect
            style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5754"
-           width="158.57159"
-           height="43.571461"
-           x="731.42853"
-           y="383.07648"
-           rx="8.0812206"
-           ry="7.8727713" />
+           width="125.29301"
+           height="34.427345"
+           x="668.4057"
+           y="945.76001"
+           rx="6.3852572"
+           ry="6.2205539" />
         <text
            xml:space="preserve"
-           style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="810.70068"
-           y="410.36172"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+           x="731.04144"
+           y="967.31909"
            id="text5582"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5584"
-             x="810.70068"
-             y="410.36172">Comète</tspan></text>
+             x="731.04144"
+             y="967.31909">Comète</tspan></text>
       </g>
     </a>
     <a
-       id="a4218"
+       id="a14378"
        xlink:href="http://reeddesign.co.uk/kites/tricks/jacobsladder.html">
       <g
-         transform="matrix(0.79013525,0,0,0.79013525,95.864522,111.49333)"
-         id="g5818">
+         id="g14373">
         <rect
            style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5638"
-           width="158.57159"
-           height="43.571461"
-           x="727.14282"
-           y="448.79077"
-           rx="8.0812206"
-           ry="7.8727713" />
+           width="125.29301"
+           height="34.427345"
+           x="670.4057"
+           y="466.09872"
+           rx="6.3852572"
+           ry="6.2205539" />
         <text
            xml:space="preserve"
-           style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="806.41492"
-           y="474.43881"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+           x="733.04138"
+           y="486.36417"
            id="text5593"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5595"
-             x="806.41492"
-             y="474.43881">Jacob's Ladder</tspan></text>
+             x="733.04138"
+             y="486.36417">Jacob's Ladder</tspan></text>
       </g>
     </a>
     <g
-       id="g5775"
-       transform="matrix(0.79013525,0,0,0.79013525,100.37954,138.84994)">
+       id="g15059">
       <rect
-         ry="7.8727713"
-         rx="8.0812206"
-         y="565.93365"
-         x="721.42859"
-         height="43.571461"
-         width="158.57159"
+         ry="6.2205539"
+         rx="6.3852572"
+         y="586.0141"
+         x="670.4057"
+         height="34.427345"
+         width="125.29301"
          id="rect5758"
          style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5610"
-         y="592.9386"
-         x="800.40674"
-         style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+         y="607.35162"
+         x="732.80914"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="592.9386"
-           x="800.40674"
+           y="607.35162"
+           x="732.80914"
            id="tspan5612"
            sodipodi:role="line">Lewis</tspan></text>
     </g>
     <g
-       id="g5780"
-       transform="matrix(0.79013525,0,0,0.79013525,101.50832,334.65875)">
+       id="g16095">
       <rect
          style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5760"
-         width="158.57159"
-         height="43.571461"
-         x="720"
-         y="621.64795"
-         rx="8.0812206"
-         ry="7.8727713" />
+         width="125.29301"
+         height="34.427345"
+         x="670.4057"
+         y="825.84473"
+         rx="6.3852572"
+         ry="6.2205539" />
       <text
          sodipodi:linespacing="125%"
          id="text5614"
-         y="647.29596"
-         x="799.58655"
-         style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+         y="846.11011"
+         x="733.28986"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="647.29596"
-           x="799.58655"
+           y="846.11011"
+           x="733.28986"
            id="tspan5616"
            sodipodi:role="line">Torpille</tspan></text>
     </g>
     <g
-       id="g5785"
-       transform="matrix(0.79013525,0,0,0.79013525,96.993252,-10.280118)">
+       id="g14719">
       <rect
-         ry="7.8727713"
-         rx="8.0812206"
-         y="678.79077"
-         x="725.71429"
-         height="43.571461"
-         width="158.57159"
+         ry="6.2205539"
+         rx="6.3852572"
+         y="526.0564"
+         x="670.4057"
+         height="34.427345"
+         width="125.29301"
          id="rect5762"
          style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5618"
-         y="704.38409"
-         x="805.24622"
-         style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+         y="546.27856"
+         x="733.24664"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="704.38409"
-           x="805.24622"
+           y="546.27856"
+           x="733.24664"
            id="tspan5620"
            sodipodi:role="line">Rolling Cascade</tspan></text>
     </g>
     <a
-       id="a4170"
+       id="a4374"
        xlink:href="http://reeddesign.co.uk/kites/tricks/wapdowap.html">
       <g
-         transform="translate(0.4999967,-2.1986961)"
-         id="g4057">
+         id="g4369">
         <rect
            ry="6.2205539"
            rx="6.3852572"
-           y="648.17041"
-           x="669.9057"
+           y="645.97174"
+           x="670.4057"
            height="34.427345"
            width="125.29301"
            id="rect5764"
-           style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="732.64081"
-           y="668.41876"
+           x="733.14081"
+           y="666.22009"
            id="text5622"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5624"
-             x="732.64081"
-             y="668.41876">Wap-doo-Wap</tspan></text>
+             x="733.14081"
+             y="666.22009">Wap-doo-Wap</tspan></text>
       </g>
     </a>
     <g
-       id="g5795"
-       transform="matrix(0.79013525,0,0,0.79013525,99.981385,263.67976)">
+       id="g16435">
       <rect
-         ry="7.8727713"
-         rx="8.0812206"
-         y="787.36218"
-         x="721.9325"
-         height="43.571461"
-         width="158.57159"
+         ry="6.2205539"
+         rx="6.3852572"
+         y="885.80237"
+         x="670.4057"
+         height="34.427345"
+         width="125.29301"
          id="rect5766"
          style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5626"
-         y="812.95551"
-         x="801.22852"
-         style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+         y="906.02454"
+         x="733.0603"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="812.95551"
-           x="801.22852"
+           y="906.02454"
+           x="733.0603"
            id="tspan5628"
            sodipodi:role="line">Yo-Yo Takeoff</tspan></text>
     </g>
     <a
-       id="a4160"
+       id="a3688"
        xlink:href="http://reeddesign.co.uk/kites/tricks/tazmachine.html">
       <g
-         transform="matrix(0.79013525,0,0,0.79013525,102.22534,-330.6843)"
-         id="g5800">
+         id="g3683">
         <rect
-           ry="7.8727713"
-           rx="8.0812206"
-           y="856.64789"
-           x="719.09253"
-           height="43.571461"
-           width="158.57159"
+           ry="6.2205539"
+           rx="6.3852572"
+           y="346.18338"
+           x="670.4057"
+           height="34.427345"
+           width="125.29301"
            id="rect5768"
            style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="798.67908"
-           y="883.65283"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+           x="733.28986"
+           y="367.52097"
            id="text5630"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5632"
-             x="798.67908"
-             y="883.65283">Taz Machine</tspan></text>
+             x="733.28986"
+             y="367.52097">Taz Machine</tspan></text>
       </g>
     </a>
     <path
@@ -1415,74 +1524,6 @@
        inkscape:transform-center-x="-1.767767" />
     <path
        inkscape:transform-center-x="-1.767767"
-       transform="translate(577.50878,285.20428)"
-       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="true"
-       sodipodi:arg2="1.0471976"
-       sodipodi:arg1="0"
-       sodipodi:r2="3.5355339"
-       sodipodi:r1="7.0710678"
-       sodipodi:cy="68.302429"
-       sodipodi:cx="83.842659"
-       sodipodi:sides="3"
-       id="path6621"
-       style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#57d4fe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       sodipodi:type="star" />
-    <path
-       sodipodi:type="star"
-       style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#57d4fe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path6623"
-       sodipodi:sides="3"
-       sodipodi:cx="83.842659"
-       sodipodi:cy="68.302429"
-       sodipodi:r1="7.0710678"
-       sodipodi:r2="3.5355339"
-       sodipodi:arg1="0"
-       sodipodi:arg2="1.0471976"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
-       transform="translate(-24.323144,716.98976)"
-       inkscape:transform-center-x="-1.767767" />
-    <path
-       inkscape:transform-center-x="-1.767767"
-       transform="translate(578.35087,534.46726)"
-       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="true"
-       sodipodi:arg2="1.0471976"
-       sodipodi:arg1="0"
-       sodipodi:r2="3.5355339"
-       sodipodi:r1="7.0710678"
-       sodipodi:cy="68.302429"
-       sodipodi:cx="83.842659"
-       sodipodi:sides="3"
-       id="path10266"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       sodipodi:type="star" />
-    <path
-       sodipodi:type="star"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path10268"
-       sodipodi:sides="3"
-       sodipodi:cx="83.842659"
-       sodipodi:cy="68.302429"
-       sodipodi:r1="7.0710678"
-       sodipodi:r2="3.5355339"
-       sodipodi:arg1="0"
-       sodipodi:arg2="1.0471976"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
-       transform="translate(578.46817,356.40122)"
-       inkscape:transform-center-x="-1.767767" />
-    <path
-       inkscape:transform-center-x="-1.767767"
        transform="translate(577.33546,302.96467)"
        d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
        inkscape:randomized="0"
@@ -1532,40 +1573,6 @@
        d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
        transform="translate(578.23358,424.60245)"
        inkscape:transform-center-x="-1.767767" />
-    <path
-       sodipodi:type="star"
-       style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#fec157;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path10276"
-       sodipodi:sides="3"
-       sodipodi:cx="83.842659"
-       sodipodi:cy="68.302429"
-       sodipodi:r1="7.0710678"
-       sodipodi:r2="3.5355339"
-       sodipodi:arg1="0"
-       sodipodi:arg2="1.0471976"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
-       transform="translate(579.23296,479.61497)"
-       inkscape:transform-center-x="-1.767767" />
-    <path
-       inkscape:transform-center-x="-1.767767"
-       transform="translate(577.20039,605.17605)"
-       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="true"
-       sodipodi:arg2="1.0471976"
-       sodipodi:arg1="0"
-       sodipodi:r2="3.5355339"
-       sodipodi:r1="7.0710678"
-       sodipodi:cy="68.302429"
-       sodipodi:cx="83.842659"
-       sodipodi:sides="3"
-       id="path10278"
-       style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#fec157;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       sodipodi:type="star" />
     <path
        sodipodi:type="star"
        style="fill:#fec157;fill-opacity:1;fill-rule:evenodd;stroke:#fec157;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -1670,23 +1677,6 @@
        inkscape:transform-center-x="-1.767767" />
     <path
        sodipodi:type="star"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path10296"
-       sodipodi:sides="3"
-       sodipodi:cx="83.842659"
-       sodipodi:cy="68.302429"
-       sodipodi:r1="7.0710678"
-       sodipodi:r2="3.5355339"
-       sodipodi:arg1="0"
-       sodipodi:arg2="1.0471976"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
-       transform="translate(578.12897,588.5683)"
-       inkscape:transform-center-x="-1.767767" />
-    <path
-       sodipodi:type="star"
        style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#57d4fe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="path10300"
        sodipodi:sides="3"
@@ -1703,181 +1693,174 @@
        transform="translate(176.2831,428.70692)"
        inkscape:transform-center-x="-1.767767" />
     <a
-       id="a4154"
+       id="a17816"
        xlink:href="http://reeddesign.co.uk/kites/tricks/backspincascade.html">
       <g
-         transform="matrix(0.79013525,0,0,0.79013525,209.75288,469.98785)"
-         id="g5968">
+         id="g17811">
         <rect
-           ry="7.8727713"
-           rx="8.0812206"
-           y="356.60587"
-           x="835.61621"
-           height="48.622223"
-           width="173.72388"
+           ry="6.2205539"
+           rx="6.3852572"
+           y="751.7547"
+           x="870.00269"
+           height="38.418133"
+           width="137.26537"
            id="rect5868"
-           style="fill:#94fe89;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#94fe89;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="922.68323"
-           y="384.7793"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+           x="938.79742"
+           y="774.01556"
            id="text5830"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5832"
-             x="922.68323"
-             y="384.7793">Backspin Cascade</tspan></text>
+             x="938.79742"
+             y="774.01556">Backspin Cascade</tspan></text>
       </g>
     </a>
     <g
-       id="g5963"
-       transform="matrix(0.79013525,0,0,0.79013525,205.05865,311.82887)">
+       id="g19535">
       <rect
-         ry="7.8727713"
-         rx="8.0812206"
-         y="412.16425"
-         x="841.55725"
-         height="48.622223"
-         width="173.72388"
+         ry="6.2205539"
+         rx="6.3852572"
+         y="637.49438"
+         x="870.00269"
+         height="38.418133"
+         width="137.26537"
          id="rect5926"
-         style="fill:#94fe89;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#94fe89;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5834"
-         y="440.15991"
-         x="928.0979"
-         style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+         y="659.61475"
+         x="938.38153"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="440.15991"
-           x="928.0979"
+           y="659.61475"
+           x="938.38153"
            id="tspan5836"
            sodipodi:role="line">Crazy Copter</tspan></text>
     </g>
     <g
-       id="g5958"
-       transform="matrix(0.79013525,0,0,0.79013525,199.47157,208.40559)">
+       id="g18515">
       <rect
          style="fill:#94fe89;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5928"
-         width="173.72388"
-         height="48.622223"
-         x="848.6283"
-         y="470.75308"
-         rx="8.0812206"
-         ry="7.8727713" />
+         width="137.26537"
+         height="38.418133"
+         x="870.00269"
+         y="580.3642"
+         rx="6.3852572"
+         ry="6.2205539" />
       <text
          sodipodi:linespacing="125%"
          id="text5838"
-         y="498.87183"
-         x="935.68848"
-         style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+         y="602.58179"
+         x="938.79199"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="498.87183"
-           x="935.68848"
+           y="602.58179"
+           x="938.79199"
            id="tspan5840"
            sodipodi:role="line">Yo-Yo Multilazy</tspan></text>
     </g>
     <g
-       id="g5953"
-       transform="matrix(0.79013525,0,0,0.79013525,197.0771,89.019142)">
+       id="g18855">
       <rect
-         ry="7.8727713"
-         rx="8.0812206"
-         y="549.54498"
-         x="851.65875"
-         height="48.622223"
-         width="173.72388"
+         ry="6.2205539"
+         rx="6.3852572"
+         y="523.23401"
+         x="870.00269"
+         height="38.418133"
+         width="137.26537"
          id="rect5930"
          style="fill:#94fe89;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5842"
-         y="577.6637"
-         x="938.50702"
-         style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+         y="545.4516"
+         x="938.62457"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="577.6637"
-           x="938.50702"
+           y="545.4516"
+           x="938.62457"
            id="tspan5844"
            sodipodi:role="line">Cynique</tspan></text>
     </g>
     <g
-       id="g5948"
-       transform="matrix(0.79013525,0,0,0.79013525,196.27896,367.1495)">
+       id="g17126">
       <rect
          style="fill:#94fe89;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect5932"
-         width="173.72388"
-         height="48.622223"
-         x="852.66888"
-         y="631.36731"
-         rx="8.0812206"
-         ry="7.8727713" />
+         width="137.26537"
+         height="38.418133"
+         x="870.00269"
+         y="866.01508"
+         rx="6.3852572"
+         ry="6.2205539" />
       <text
          sodipodi:linespacing="125%"
          id="text5846"
-         y="660.89764"
-         x="939.22321"
-         style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+         y="889.34802"
+         x="938.39233"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="660.89764"
-           x="939.22321"
+           y="889.34802"
+           x="938.39233"
            id="tspan5848"
            sodipodi:role="line"><tspan
-   style="font-size:13.9216671px"
+   style="font-size:11px"
    id="tspan4506">L</tspan>adole</tspan></text>
     </g>
     <g
-       id="g5943"
-       transform="matrix(0.79013525,0,0,0.79013525,195.48082,260.53359)">
+       id="g17467">
       <rect
-         ry="7.8727713"
-         rx="8.0812206"
-         y="693.99677"
-         x="853.67902"
-         height="48.622223"
-         width="173.72388"
+         ry="6.2205539"
+         rx="6.3852572"
+         y="808.88489"
+         x="870.00269"
+         height="38.418133"
+         width="137.26537"
          id="rect5934"
          style="fill:#94fe89;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text5850"
-         y="723.5271"
-         x="940.06244"
-         style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+         y="832.21783"
+         x="938.25726"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           y="723.5271"
-           x="940.06244"
+           y="832.21783"
+           x="938.25726"
            id="tspan5852"
            sodipodi:role="line">Multislot</tspan></text>
     </g>
     <a
-       id="a4194"
+       id="a17834"
        xlink:href="http://reeddesign.co.uk/kites/tricks/yofade.html">
       <g
-         transform="matrix(0.79013525,0,0,0.79013525,196.27896,94.393031)"
-         id="g5938">
+         id="g17829">
         <rect
-           ry="7.8727713"
-           rx="8.0812206"
-           y="759.65668"
-           x="852.66888"
-           height="48.622223"
-           width="173.72388"
+           ry="6.2205539"
+           rx="6.3852572"
+           y="694.62457"
+           x="870.00269"
+           height="38.418133"
+           width="137.26537"
            id="rect5936"
            style="fill:#94fe89;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-           x="939.93414"
-           y="789.18701"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+           x="938.95404"
+           y="717.95752"
            id="text5854"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan5856"
-             x="939.93414"
-             y="789.18701">Yo-Fade</tspan></text>
+             x="938.95404"
+             y="717.95752">Yo-Fade</tspan></text>
       </g>
     </a>
     <path
@@ -1915,23 +1898,6 @@
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        sodipodi:type="star" />
     <path
-       inkscape:transform-center-x="-1.767767"
-       transform="translate(777.90262,532.59816)"
-       d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="true"
-       sodipodi:arg2="1.0471976"
-       sodipodi:arg1="0"
-       sodipodi:r2="3.5355339"
-       sodipodi:r1="7.0710678"
-       sodipodi:cy="68.302429"
-       sodipodi:cx="83.842659"
-       sodipodi:sides="3"
-       id="path10316"
-       style="fill:#fb89fe;fill-opacity:1;fill-rule:evenodd;stroke:#fb89fe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       sodipodi:type="star" />
-    <path
        sodipodi:type="star"
        style="fill:#57d4fe;fill-opacity:1;fill-rule:evenodd;stroke:#57d4fe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="path6611"
@@ -1948,61 +1914,6 @@
        d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
        transform="translate(376.43333,419.94724)"
        inkscape:transform-center-x="-1.767767" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-       x="114.39409"
-       y="1028.0537"
-       id="text4406"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4408"
-         x="114.39409"
-         y="1028.0537">Group 1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-       x="319.65683"
-       y="1028.0537"
-       id="text4410"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4412"
-         x="319.65683"
-         y="1028.0537">Group 2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-       x="524.76721"
-       y="1028.0537"
-       id="text4414"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4416"
-         x="524.76721"
-         y="1028.0537">Group 3</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-       x="729.71942"
-       y="1028.0537"
-       id="text4418"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4420"
-         x="729.71942"
-         y="1028.0537">Group 4</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-       x="935.01733"
-       y="1028.0537"
-       id="text4422"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4424"
-         x="935.01733"
-         y="1028.0537">Group 5</tspan></text>
     <path
        inkscape:transform-center-x="-1.767767"
        transform="translate(-24.676697,776.38673)"
@@ -2037,50 +1948,6 @@
        d="m 90.913727,68.302429 -10.606602,6.123725 0,-12.247449 z"
        transform="translate(176.1582,660.71691)"
        inkscape:transform-center-x="-1.767767" />
-    <a
-       id="a3681"
-       xlink:href="http://www.rscreation.be">
-      <text
-         transform="matrix(0,-1,1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3259"
-         y="1038.549"
-         x="-685.68744"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           id="tspan3263"
-           y="1038.549"
-           x="-685.68744"
-           sodipodi:role="line">© zebul666@hotmail.com (CC) BY-NC</tspan><tspan
-           id="tspan3267"
-           y="1048.549"
-           x="-685.68744"
-           sodipodi:role="line">based on the work at www.rscreation.be</tspan></text>
-    </a>
-    <g
-       transform="matrix(0.79013525,0,0,0.79013525,205.05865,311.82887)"
-       id="g4033">
-      <rect
-         style="fill:#94fe89;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="rect4035"
-         width="173.72388"
-         height="48.622223"
-         x="841.55725"
-         y="412.16425"
-         rx="8.0812206"
-         ry="7.8727713" />
-      <text
-         xml:space="preserve"
-         style="font-size:13.9216671px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-         x="928.0979"
-         y="440.15991"
-         id="text4037"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4039"
-           x="928.0979"
-           y="440.15991">Crazy Copter</tspan></text>
-    </g>
     <path
        inkscape:transform-center-x="1.7677649"
        transform="matrix(-1,0,0,1,465.31586,409.3828)"
@@ -2099,56 +1966,142 @@
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        sodipodi:type="star" />
     <g
-       id="g4049"
-       transform="translate(201.36077,-244.39455)">
+       id="g12989">
       <rect
          ry="6.2205539"
          rx="6.3852572"
-         y="938.45526"
-         x="268.19775"
+         y="694.06073"
+         x="469.55853"
          height="35.683296"
          width="103.21267"
          id="rect4047"
-         style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-         x="319.67249"
-         y="959.30542"
+         x="521.03326"
+         y="714.91089"
          id="text4049"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4051"
-           x="319.67249"
-           y="959.30542">Spike</tspan></text>
+           x="521.03326"
+           y="714.91089">Spike</tspan></text>
     </g>
     <a
-       id="a4226"
+       id="a13338"
        xlink:href="http://reeddesign.co.uk/kites/tricks/sideslide.html">
       <g
-         transform="translate(-10.585789,-213.34572)"
-         id="g3285">
+         id="g13333">
         <rect
-           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.79013526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#fef857;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect5484"
            width="103.21267"
            height="35.683296"
-           x="480.14432"
-           y="961.09644"
+           x="469.55853"
+           y="747.75073"
            rx="6.3852572"
            ry="6.2205539" />
         <text
            xml:space="preserve"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-           x="531.61908"
-           y="983.03894"
+           x="521.03326"
+           y="769.69324"
            id="text3281"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3283"
-             x="531.61908"
-             y="983.03894">Slide</tspan></text>
+             x="521.03326"
+             y="769.69324">Slide</tspan></text>
       </g>
+    </a>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Legend"
+     style="display:inline">
+    <text
+       transform="translate(0,-308.2677)"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+       x="114.39409"
+       y="1028.0537"
+       id="text4406"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4408"
+         x="114.39409"
+         y="1028.0537">Group 1</tspan></text>
+    <text
+       transform="translate(0,-308.2677)"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+       x="319.65683"
+       y="1028.0537"
+       id="text4410"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4412"
+         x="319.65683"
+         y="1028.0537">Group 2</tspan></text>
+    <text
+       transform="translate(0,-308.2677)"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+       x="524.76721"
+       y="1028.0537"
+       id="text4414"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4416"
+         x="524.76721"
+         y="1028.0537">Group 3</tspan></text>
+    <text
+       transform="translate(0,-308.2677)"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+       x="729.71942"
+       y="1028.0537"
+       id="text4418"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4420"
+         x="729.71942"
+         y="1028.0537">Group 4</tspan></text>
+    <text
+       transform="translate(0,-308.2677)"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+       x="935.01733"
+       y="1028.0537"
+       id="text4422"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4424"
+         x="935.01733"
+         y="1028.0537">Group 5</tspan></text>
+    <a
+       transform="translate(0,-308.2677)"
+       style="display:inline"
+       id="a3681"
+       xlink:href="http://www.rscreation.be">
+      <text
+         transform="matrix(0,-1,1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3259"
+         y="1038.549"
+         x="-685.68744"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3263"
+           y="1038.549"
+           x="-685.68744"
+           sodipodi:role="line">© zebul666@hotmail.com (CC) BY-NC</tspan><tspan
+           id="tspan3267"
+           y="1048.549"
+           x="-685.68744"
+           sodipodi:role="line">based on the work at www.rscreation.be</tspan></text>
     </a>
   </g>
   <g
