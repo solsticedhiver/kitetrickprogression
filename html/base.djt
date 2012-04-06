@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<html>
+	<head> 
+		<title>{% block title %}Kite Trick Progression{% endblock %}</title>
+		<meta charset="utf-8">
+		<!-- Try to use Google Chrome Frame in IE if available -->
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+	</head>
+	<body>
+		{% block content %}{% endblock %}
+	</body>
+</html>

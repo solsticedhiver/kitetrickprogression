@@ -1,0 +1,9 @@
+{% extends "base.djt" %}
+
+{% block content %}
+<h1>Kite Trick Progression</h1>
+<p>Here is a schematic displaying the relations between <em>kite</em> tricks. There are displayed by group of difficulty as defined by the <a href="http://www.tricksparty.nl/oldusafiles/TPTrickDefinitions.pdf">Tricks Party USA 2006 document</a>.</p>
+<p>Each box with a dot is a link to a video of the trick on <a href="http://reeddesign.co.uk">reeddesign.co.uk</a> website.</p>
+<!-- include the svg ->
+{% include "kitetrickprogression.svg" %}
+{% endblock %}
