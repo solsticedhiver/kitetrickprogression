@@ -300,4 +300,20 @@ $(document).ready(function() {
 		}
 	}));
 
+	//==========================================
+	$(TazMachine).qtip($.extend({}, shared, {
+		content: { text: "No description" }
+	}));
+	$(Cynique).qtip($.extend({}, shared, {
+		content: { text: "No description" }
+	}));
+	$(YoFade).qtip($.extend({}, shared, {
+		content: { text: "No description" }
+	}));
+	$(Multislot).qtip($.extend({}, shared, {
+		content: { text: "No description" }
+	}));
+	$(Ladole).qtip($.extend({}, shared, {
+		content: { text: "No description" }
+	}));
 });
