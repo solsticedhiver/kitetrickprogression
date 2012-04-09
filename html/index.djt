@@ -3,9 +3,9 @@
 {% block header %}
 <meta name="description" content="a schematic about the relation between kite trick and the way to progress">
 <meta name="keywords" content="kite,trick,progression,schematic,svg">
-<title>Kite Trick Progression</title>
 
 <style type="text/css">
+	body { margin: 0px 20px;}
 	.small { font-size: 0.8em; }
 	.red { color: #F00; font-weight: bold; }
 </style>
@@ -14,7 +14,7 @@
 <script type="text/javascript" src="/static/js/modernizr.custom.76319.js"></script>
 <script type="text/javascript" src="/static/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="/static/js/jquery.qtip.min.js"></script>
-<script type="text/javascript" src="/static/js/trick-tip.js"></script>
+<script type="text/javascript" src="/static/js/trick-tip.js?v2"></script>
 {% endblock %}
 
 {% block content %}
