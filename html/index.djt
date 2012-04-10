@@ -15,7 +15,7 @@
 
 {% block content %}
 <h1>Kite Trick Progression</h1>
-<p>Here is a schematic displaying the relations between <em>kite</em> tricks. There are displayed by group of difficulty as defined by the <a href="http://www.tricksparty.nl/oldusafiles/TPTrickDefinitions.pdf">Tricks Party USA 2006 document</a>. The definitions of the trick, shown in the tooltips, are taken from that document too.</p>
+<p>Here is a schematic displaying the relations between <em>kite</em> tricks. There are displayed by group of difficulty as defined by the <a href="/static/TPTrickDefinitions.pdf">Tricks Party USA 2006 document</a>. The definitions of the trick, shown in the tooltips, are taken from that document too.</p>
 <p> Move the mouse cursor over each box to get a description of the trick. Each box with a dot is a link(clickable) to a video of the trick on <a href="http://reeddesign.co.uk">reeddesign.co.uk</a> website.</p>
 <p>Search for a trick:
 <select>

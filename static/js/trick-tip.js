@@ -132,7 +132,7 @@ $(document).ready(function() {
 		$(CoinToss).qtip($.extend({}, shared, {
 			content: {
 				title: { text: "Coin Toss"},
-				text: "The COIN TOSS is a ground maneuver in which the kite balances on one wingtip and then executes a HALF AXEL—popping up and rotating 180°—and comes to rest on the opposite wingtip, where it must remain for at least tweconds."
+				text: "The COIN TOSS is a ground maneuver in which the kite balances on one wingtip and then executes a HALF AXEL—popping up and rotating 180°—and comes to rest on the opposite wingtip, where it must remain for at least two seconds."
 			}
 		}));
 		$(Comete).qtip($.extend({}, shared, {
