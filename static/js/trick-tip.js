@@ -1,7 +1,11 @@
 $(document).ready(function() {
 	if (!Modernizr.inlinesvg) {
-		$('svg').replaceWith('<p class="red">You need a modern browser, like IE9, Firefox 4+, Opera 11.6+, Chrom[e/ium] 7+, Safari 5.1+ etc..., to be able to see this schematic.</p>');
+		// show red warning for old browser
+		$('svg').replaceWith('<p class="red">You need a modern browser supporting inline SVG, like IE9+, Firefox 4+, Opera 11.6+, Chrom[e/ium] 7+, Safari 5.1+, iOS Safari 5.0+, Android Browser 3.0+, Opera Mobile 12.0+ etc..., to be able to see this schematic.</p>');
 	} else {
+		// remove title tooltip for firefox
+		$('svg title').remove();
+
 		// Tooltips
 		// A shared object containing all the values you want shared between your tooltips
 		var shared = {
@@ -55,6 +59,8 @@ $(document).ready(function() {
 		var Spike="#g12989";
 		var Slide="#g13333";
 		var HalfAxel="#g5743";
+
+		// it would be better if the descriptions of the trick were inside the SVG file
 
 		$(T360).qtip($.extend({}, shared, {
 			content: {
