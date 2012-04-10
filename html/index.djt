@@ -77,5 +77,5 @@
 <script type="text/javascript" src="/static/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="/static/js/jquery.scrollintoview.min.js"></script>
 <script type="text/javascript" src="/static/js/jquery.qtip.min.js"></script>
-<script type="text/javascript" src="/static/js/trick-tip.js?v5"></script>
+<script type="text/javascript" src="/static/js/trick-tip.js?v=5"></script>
 {% endblock %}
