@@ -68,8 +68,8 @@
 </select>
 </p>
 
-<!-- include the svg -->
-{% include "kitetrickprogression.svg" %}
+<!-- inline the optimized svg -->
+{% include "ktp.svg" %}
 
 <p class="small"><a href="/static/kitetrickprogression.svg">Source of the SVG</a></p>
 
