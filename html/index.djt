@@ -6,10 +6,10 @@
 
 <link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css">
 <style type="text/css">
-	body { margin: 0px 20px;}
+		body { margin: 0px 20px; font-size: 12px; font-family: sans-serif;}
 	.small { font-size: 0.8em; }
-	.red { color: #F00; font-weight: bold; }
-	.ui-tooltip { font-size: 0.8em; line-height: 1.1em; font-family: sans-serif;}
+	.red { color: #ff0000; font-weight: bold; }
+	.ui-tooltip { font-size: 1em; line-height: 1.3em;}
 </style>
 {% endblock %}
 
