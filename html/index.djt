@@ -9,7 +9,7 @@
 	body { margin: 0px 20px;}
 	.small { font-size: 0.8em; }
 	.red { color: #F00; font-weight: bold; }
-	.ui-tooltip { font-size: 0.8em; line-height: 1.1em;}
+	.ui-tooltip { font-size: 0.8em; line-height: 1.1em; font-family: sans-serif;}
 </style>
 
 <script type="text/javascript" src="/static/js/modernizr.custom.76319.js"></script>
