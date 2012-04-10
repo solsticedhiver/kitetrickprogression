@@ -1,3 +1,12 @@
+var regex_color = /(.*)fill:(#[a-f0-9]*|rgb\(\d{1,3}, ?\d{1,3}, ?\d{1,3}\))(.*)/;
+
+function replaceFillStyle(elemnt, color) {
+	var style = $(elemnt).attr('style').replace(/(:|;) /g, '$1');
+	var original_color = style.replace(regex_color, '$2');
+	$(elemnt).attr('style', style.replace(regex_color, '$1fill:'+color+'$3'));
+	return original_color;
+}
+
 $(document).ready(function() {
 	if (!Modernizr.inlinesvg) {
 		// show red warning for old browser
@@ -7,7 +16,7 @@ $(document).ready(function() {
 		$('svg title').remove();
 
 		// Tooltips
-		// A shared object containing all the values you want shared between your tooltips
+		// An object containing all the values you want shared between your tooltips
 		var shared = {
 			position: { my: 'left middle', at: 'right middle' },
 			style: { tip: true, classes: 'ui-tooltip-dark ui-tooltip-shadow' }
@@ -59,6 +68,28 @@ $(document).ready(function() {
 		var Spike="#g12989";
 		var Slide="#g13333";
 		var HalfAxel="#g5743";
+
+		// search for a trick
+		$('select').change(function() {
+			var trick = $(this).val();
+			var svg_object = eval(trick);
+			var rect = svg_object+' rect';
+
+			// disable qtip
+			$('[id^=g]').qtip('disable');
+			// scroll into view if not visible
+			$(rect).scrollintoview('normal');
+
+			// highlight trick box
+			var color = replaceFillStyle(rect, '#ff0000');
+			// highlight for 1.5 second and return to normal
+			setTimeout(function() {
+				replaceFillStyle(rect, color);
+				//re-enable qtip
+				$('[id^=g]').qtip('enable');
+			}, 1500);
+			//
+		});
 
 		// it would be better if the descriptions of the trick were inside the SVG file
 
@@ -227,7 +258,7 @@ $(document).ready(function() {
 		$(RollingSusan).qtip($.extend({}, shared, {
 			content: {
 				title: { text: "Rolling Susan [Snap Lazy]"},
-				text: "The ROLLING SUSAN is a single 360° rotation entered from the TURTLE position. The lower wing is popped to knocl the kite into a TURTLE (belly up, nose away), and the same line is again popped to perform the rotation. The trick must be entered and exited horizontally. Compare LAZY SUSAN."
+				text: "The ROLLING SUSAN is a single 360° rotation entered from the TURTLE position. The lower wing is popped to knock the kite into a TURTLE (belly up, nose away), and the same line is again popped to perform the rotation. The trick must be entered and exited horizontally. Compare LAZY SUSAN."
 			}
 		}));
 		$(Rollingup).qtip($.extend({}, shared, {
