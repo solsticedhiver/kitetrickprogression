@@ -1,10 +1,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2" xmlns="http://www.w3.org/2000/svg" height="744.09" width="1052.4" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="744.09" width="1052.4" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <title id="title6568">Kite Trick Progression</title>
  <defs id="defs4">
-  <marker id="TriangleOutM" refY="0.0" refX="0.0" orient="auto" overflow="visible">
-   <path id="path4257" d="m5.77 0l-8.65 5v-10l8.65 5z" fill-rule="evenodd" transform="scale(.4)" stroke="#000" stroke-width="1pt"/>
-  </marker>
   <marker id="TriangleOutMF" refY="0.0" refX="0.0" orient="auto" overflow="visible">
    <path id="path4558" d="m5.77 0l-8.65 5v-10l8.65 5z" fill-rule="evenodd" transform="scale(.4)" stroke="#57d4fe" stroke-width="1pt" fill="#57d4fe"/>
   </marker>
@@ -14,31 +11,34 @@
   <marker id="TriangleOutMK" refY="0.0" refX="0.0" orient="auto" overflow="visible">
    <path id="path9227" d="m5.77 0l-8.65 5v-10l8.65 5z" fill-rule="evenodd" transform="scale(.4)" stroke="#fb89fe" stroke-width="1pt" fill="#fb89fe"/>
   </marker>
+  <marker id="TriangleOutM5" refY="0.0" refX="0.0" orient="auto" overflow="visible">
+   <path id="path4119" d="m5.77 0l-8.65 5v-10l8.65 5z" fill-rule="evenodd" transform="scale(.4)" stroke="#676767" stroke-width="1pt" fill="#676767"/>
+  </marker>
  </defs>
  <g id="layer1" transform="translate(0 -308.27)">
   <path id="path6502" marker-end="url(#TriangleOutMF)" d="m167.72 489.25c38.557 0.86644 53.831-25.45 159.04-26.207 109.26-0.78621 91.095 25.464 136.45 25.464" stroke="#57d4fe" stroke-width="2" fill="none"/>
   <path id="path4492" marker-end="url(#TriangleOutMF)" d="m70.004 609.01c-35.431-1.1046-28.284 71.457-27.299 105.45 1 16.5-4.5797 70.828 19.42 70.828" stroke="#57d4fe" stroke-width="2" fill="none"/>
   <path id="path6562" marker-end="url(#TriangleOutMH)" d="m370.37 416.46c81.561-2.9171 52.032-29.818 93.055-29.124" stroke="#fec157" stroke-width="2" fill="none"/>
-  <path id="path4041" marker-end="url(#TriangleOutM)" d="m468.64 195.32c-41.719 0.70711-40.533-26.368-90.03-24.954" transform="translate(0 308.27)" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
-  <path id="path3263" marker-end="url(#TriangleOutM)" d="m573.11 190.43c18.385 0 48.487-5.5711 51.412 11.864 4.5711 32.224 8.6924 71.575 12.581 102.69 4 25.385 54.505 15.763 104.03 16.824 93.012-0.43934 77.694 23.127 124.01 25.249" transform="translate(0 308.27)" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
+  <path id="path4041" marker-end="url(#TriangleOutM5)" d="m468.64 195.32c-41.719 0.70711-40.533-26.368-90.03-24.954" transform="translate(0 308.27)" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path3263" marker-end="url(#TriangleOutM5)" d="m573.11 190.43c18.385 0 48.487-5.5711 51.412 11.864 4.5711 32.224 8.6924 71.575 12.581 102.69 4 25.385 54.505 15.763 104.03 16.824 93.012-0.43934 77.694 23.127 124.01 25.249" transform="translate(0 308.27)" stroke="#676767" stroke-width="2" fill="none"/>
   <path id="path4038" marker-end="url(#TriangleOutMF)" d="m171 364.59c19 0 54 2 54.5 23-1.6916 31.822-10.688 33.745 38 33.5" transform="translate(0 308.27)" stroke="#57d4fe" stroke-width="2" fill="none"/>
-  <path id="path3257" marker-end="url(#TriangleOutM)" d="m571.49 336.59c39.5-1 40.014-41.789 93.014-42.289" transform="translate(0 308.27)" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
+  <path id="path3257" marker-end="url(#TriangleOutM5)" d="m571.49 336.59c39.5-1 40.014-41.789 93.014-42.289" transform="translate(0 308.27)" stroke="#676767" stroke-width="2" fill="none"/>
   <path id="path6486" marker-end="url(#TriangleOutMF)" d="m171.26 500.18c49.047-0.0878 31.001-4.9602 92.319-5.1021" stroke="#57d4fe" stroke-width="2" fill="none"/>
   <path id="path4494" marker-end="url(#TriangleOutMF)" d="m71.418 495.87c-16.971 1.4142-40.305 6.364-42.426 33.234-2.1213 24.749-6.364 259.51-5.6569 289.21-0.24457 29.902 26.039 23.667 39.462 24.163" stroke="#57d4fe" stroke-width="2" fill="none"/>
   <path id="path6498" marker-end="url(#TriangleOutMF)" d="m171.26 610.21c74.819 0.17301 34.516-1.7159 91.522-1.6795" stroke="#57d4fe" stroke-width="2" fill="none"/>
-  <path id="path5512" opacity=".5" d="m245.72 190.78a3.8891 3.8891 0 1 1 -0.00004 -0.0168" fill-rule="evenodd" transform="translate(-0.75 305.06)" fill="#fff"/>
-  <path id="path5514" opacity=".5" d="m246.07 301.45a3.5355 3.5355 0 1 1 -0.00003 -0.0153" fill-rule="evenodd" transform="translate(0 306.5)" fill="#fff"/>
+  <path id="path5512" opacity=".5" d="m245.72 190.78c0 2.1479-1.7412 3.8891-3.8891 3.8891s-3.8891-1.7412-3.8891-3.8891 1.7412-3.8891 3.8891-3.8891c2.1413 0 3.8798 1.731 3.889 3.8723" fill-rule="evenodd" transform="translate(-0.75 305.06)" fill="#fff"/>
+  <path id="path5514" opacity=".5" d="m246.07 301.45c0 1.9526-1.5829 3.5355-3.5355 3.5355s-3.5355-1.5829-3.5355-3.5355 1.5829-3.5355 3.5355-3.5355c1.9466 0 3.5271 1.5736 3.5355 3.5202" fill-rule="evenodd" transform="translate(0 306.5)" fill="#fff"/>
   <path id="path10314" marker-end="url(#TriangleOutMK)" d="m792.97 601.39c33.429 0.0714 42.018-1.0233 70.947-1.7377" stroke="#fb89fe" stroke-width="2" fill="none"/>
-  <path id="path10310" marker-end="url(#TriangleOutM)" d="m572.45 817.45c67.432-0.92127 111.06-1.3617 182.37-2.4276 61.736-0.9229 59.925 12.198 109.06 11.029" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
-  <path id="path10306" marker-end="url(#TriangleOutM)" d="m794.36 783.23c31.748 1.0967 31.294-8.9926 69.582-11.176" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
-  <path id="path10302" marker-end="url(#TriangleOutM)" d="m572.6 493.06c17.143-0.71428 62.746-6.146 65.539 18.954 4.2064 86.296-6.6583 89.632 26.317 90.575" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
-  <path id="path10298" marker-end="url(#TriangleOutM)" d="m572.79 503.73c16.889 1.6679 37.765-0.63482 39.212 18.235 8.8423 27.026-14.304 136.26 52.75 134.52" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
-  <path id="path10294" marker-end="url(#TriangleOutM)" d="m568.76 664.31c54.581 4.9683 22.783-8.7654 96.207-7.6562" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
-  <path id="path10290" marker-end="url(#TriangleOutM)" d="m572.83 655.32c48.413-1.5031 67.628-14.488 161.07-14.67 82.469-0.0971 83.553 12.506 131.73 14.584" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
-  <path id="path10262" marker-end="url(#TriangleOutM)" d="m571.35 487.76c59.237-2.9527 54.173 4.5873 92.695 4.4224" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
-  <path id="path10260" marker-end="url(#TriangleOutM)" d="m571.2 442.6c57.166-0.20921 33.595-70.954 93.302-71.142" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
-  <path id="path10258" marker-end="url(#TriangleOutM)" d="m572.03 482.75c63.73 0.3022 42.652-58.278 92.215-57.542" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
-  <path id="path10256" marker-end="url(#TriangleOutM)" d="m573.58 509.7c27.963-0.90891 48.31 39.036 4.2752 39.4" stroke="#000" stroke-dasharray="4, 2" stroke-width="2" fill="none"/>
+  <path id="path10310" marker-end="url(#TriangleOutM5)" d="m572.45 817.45c67.432-0.92127 111.06-1.3617 182.37-2.4276 61.736-0.9229 59.925 12.198 109.06 11.029" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10306" marker-end="url(#TriangleOutMK)" d="m794.36 783.23c31.748 1.0967 31.294-8.9926 69.582-11.176" stroke="#fb89fe" stroke-width="2" fill="none"/>
+  <path id="path10302" marker-end="url(#TriangleOutM5)" d="m572.6 493.06c17.143-0.71428 62.746-6.146 65.539 18.954 4.2064 86.296-6.6583 89.632 26.317 90.575" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10298" marker-end="url(#TriangleOutM5)" d="m572.79 503.73c16.889 1.6679 37.765-0.63482 39.212 18.235 8.8423 27.026-14.304 136.26 52.75 134.52" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10294" marker-end="url(#TriangleOutM5)" d="m568.76 664.31c54.581 4.9683 22.783-8.7654 96.207-7.6562" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10290" marker-end="url(#TriangleOutM5)" d="m572.83 655.32c48.413-1.5031 67.628-14.488 161.07-14.67 82.469-0.0971 83.553 12.506 131.73 14.584" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10262" marker-end="url(#TriangleOutM5)" d="m571.35 487.76c59.237-2.9527 54.173 4.5873 92.695 4.4224" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10260" marker-end="url(#TriangleOutM5)" d="m571.2 442.6c57.166-0.20921 33.595-70.954 93.302-71.142" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10258" marker-end="url(#TriangleOutM5)" d="m572.03 482.75c63.73 0.3022 42.652-58.278 92.215-57.542" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10256" marker-end="url(#TriangleOutM5)" d="m573.58 509.7c27.963-0.90891 48.31 39.036 4.2752 39.4" stroke="#676767" stroke-width="2" fill="none"/>
   <path id="path4101" opacity=".5" d="m440.17 185.13c0 3.3195-2.2161 6.0104-4.9498 6.0104s-4.9497-2.691-4.9497-6.0104 2.2161-6.0104 4.9497-6.0104c2.7253 0 4.9379 2.6751 4.9497 5.9844" fill-rule="evenodd" transform="translate(2.8284 310.39)" fill="#fff"/>
   <path id="path4085" opacity=".5" d="m442.65 174.87c0 2.5384-2.0578 4.5962-4.5962 4.5962s-4.5962-2.0578-4.5962-4.5962 2.0578-4.5962 4.5962-4.5962c2.5306 0 4.5852 2.0457 4.5962 4.5763" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
   <path id="path10068" marker-end="url(#TriangleOutMH)" d="m373.12 435.64c30.406 0 64.59 24.069 65.359 49.029 0.58702 23.373 4.7949 127.85 5.4449 161.55 1.64 30.953 12.484 41.254 99.128 40.925 31.839-0.12093 102.75-17.228 121.22-17.118" stroke="#fec157" stroke-width="2" fill="none"/>
@@ -46,7 +46,7 @@
   <path id="path4107" opacity=".5" d="m617.66 223.31c0 2.3432-1.8995 4.2426-4.2426 4.2426s-4.2426-1.8995-4.2426-4.2426 1.8995-4.2426 4.2426-4.2426c2.336 0 4.2325 1.8883 4.2426 4.2243" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
   <path id="path4109" opacity=".5" d="m630.74 228.74c0 3.0014-1.5038 5.4346-3.3588 5.4346s-3.3588-2.4331-3.3588-5.4346c0-3.0014 1.5038-5.4346 3.3588-5.4346 1.8493 0 3.3507 2.4188 3.3587 5.4111" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
   <path id="path4111" opacity=".5" d="m642.76 232.5c0 1.9526-1.5829 3.5355-3.5355 3.5355s-3.5355-1.5829-3.5355-3.5355 1.5829-3.5355 3.5355-3.5355c1.9466 0 3.5271 1.5736 3.5355 3.5202" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
-  <path id="path4119" opacity=".5" d="m444.77 197.15c0 2.5384-2.0578 4.5962-4.5962 4.5962s-4.5962-2.0578-4.5962-4.5962 2.0578-4.5962 4.5962-4.5962c2.5306 0 4.5852 2.0457 4.5962 4.5763" fill-rule="evenodd" transform="translate(-1.0607 309.68)" fill="#fff"/>
+  <path id="path4153" opacity=".5" d="m444.77 197.15c0 2.5384-2.0578 4.5962-4.5962 4.5962s-4.5962-2.0578-4.5962-4.5962 2.0578-4.5962 4.5962-4.5962c2.5306 0 4.5852 2.0457 4.5962 4.5763" fill-rule="evenodd" transform="translate(-1.0607 309.68)" fill="#fff"/>
   <path id="path4099" opacity=".5" d="m430.27 182.3c0 2.3432-1.8995 4.2426-4.2426 4.2426-2.3432 0-4.2426-1.8995-4.2426-4.2426s1.8995-4.2426 4.2426-4.2426c2.336 0 4.2325 1.8883 4.2426 4.2243" fill-rule="evenodd" transform="translate(.70711 308.27)" fill="#fff"/>
   <path id="path4103" opacity=".5" d="m614.48 163.91c0 2.9289-2.3744 5.3033-5.3033 5.3033s-5.3033-2.3744-5.3033-5.3033 2.3744-5.3033 5.3033-5.3033c2.92 0 5.2906 2.3604 5.3032 5.2804" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
   <path id="path6570" marker-end="url(#TriangleOutMH)" d="m372.84 426.51c60.609-2.2596 41.519 37.883 131.85 41.498 81.624-2.291 68.858 5.4011 159.39 4.7825" stroke="#fec157" stroke-width="2" fill="none"/>
@@ -62,11 +62,11 @@
   <path id="path4097" opacity=".5" d="m393.79 141.99c0 3.1242-2.5327 5.6568-5.6568 5.6568-3.1242 0-5.6568-2.5327-5.6568-5.6568 0-3.1242 2.5327-5.6569 5.6568-5.6569 3.1146 0 5.6433 2.5178 5.6568 5.6324" fill-rule="evenodd" transform="translate(1.7678 308.27)" fill="#fff"/>
   <path id="path4095" opacity=".5" d="m416.49 138.81c0 2.3432-1.8995 4.2426-4.2426 4.2426-2.3432 0-4.2426-1.8995-4.2426-4.2426s1.8995-4.2426 4.2426-4.2426c2.336 0 4.2325 1.8883 4.2426 4.2243" fill-rule="evenodd" transform="translate(-1.4142 308.27)" fill="#fff"/>
   <path id="path5504" opacity=".5" d="m213.55 173.81c0 2.5384-2.0578 4.5962-4.5962 4.5962s-4.5962-2.0578-4.5962-4.5962 2.0578-4.5962 4.5962-4.5962c2.5306 0 4.5852 2.0457 4.5962 4.5763" fill-rule="evenodd" transform="translate(1.4142 308.27)" fill="#fff"/>
-  <path id="path5508" opacity=".5" d="m212.84 191.31a3.3588 3.3588 0 1 1 -0.00003 -0.0145" fill-rule="evenodd" transform="translate(-.70711 307.02)" fill="#fff"/>
+  <path id="path5508" opacity=".5" d="m212.84 191.31c0 1.855-1.5038 3.3588-3.3588 3.3588s-3.3588-1.5038-3.3588-3.3588 1.5038-3.3588 3.3588-3.3588c1.8493 0 3.3507 1.4949 3.3587 3.3442" fill-rule="evenodd" transform="translate(-.70711 307.02)" fill="#fff"/>
   <path id="path6500" marker-end="url(#TriangleOutMF)" d="m172.68 560.18c43.074 0 36.669-5.9892 36.251-69.28-0.31107-47.088 57.96-37.842 101.62-38.219 148.2 0.15565 86.318-15.643 153.33-16.359" stroke="#57d4fe" stroke-width="2" fill="none"/>
   <path id="path6496" marker-end="url(#TriangleOutMF)" d="m169.49 680.32c14.647 0.50508 36.249-3.046 36.794 25.015 0.57426 33.898-2.0264 44.283-1.67 64.641-0.83988 32.997 59.443 48.855 97.983 48.113 54.803-1.0548 103.37-3.3104 160.95-1.21" stroke="#57d4fe" stroke-width="2" fill="none"/>
   <path id="path6492" marker-end="url(#TriangleOutMF)" d="m169.45 842.82c67.948-0.96526 51.153 35.546 149.57 32.856 107.47 0.69732 105.93-4.4039 144.23-3.9292" stroke="#57d4fe" stroke-width="2" fill="none"/>
-  <path id="path5510" opacity=".5" d="m227.33 189.9a3.3588 3.3588 0 1 1 -0.00003 -0.0145" fill-rule="evenodd" transform="translate(-2.75 306.77)" fill="#fff"/>
+  <path id="path5510" opacity=".5" d="m227.33 189.9c0 1.855-1.5038 3.3588-3.3588 3.3588s-3.3588-1.5038-3.3588-3.3588 1.5038-3.3588 3.3588-3.3588c1.8493 0 3.3507 1.4949 3.3587 3.3442" fill-rule="evenodd" transform="translate(-2.75 306.77)" fill="#fff"/>
   <path id="path5518" opacity=".5" d="m226.63 167.98c0 2.2455-1.8204 4.0659-4.0659 4.0659s-4.0659-1.8204-4.0659-4.0659 1.8203-4.0659 4.0659-4.0659c2.2386 0 4.0561 1.8096 4.0658 4.0483" fill-rule="evenodd" transform="translate(1.4142 308.27)" fill="#fff"/>
   <path id="path5522" opacity=".5" d="m228.75 151.54c0 2.5384-2.0578 4.5962-4.5962 4.5962s-4.5962-2.0578-4.5962-4.5962 2.0578-4.5962 4.5962-4.5962c2.5306 0 4.5852 2.0457 4.5962 4.5763" fill-rule="evenodd" transform="translate(0 309.33)" fill="#fff"/>
   <path id="path6482" marker-end="url(#TriangleOutMF)" d="m170.88 602.18c9.0914 0 52.909 1.5976 52.876-25.883-0.11094-30.264-1.7974-58.398-1.7974-86.077-1.7842-40.659-2.1302-59.396 41.621-60.619" stroke="#57d4fe" stroke-width="2" fill="none"/>
@@ -74,253 +74,253 @@
   <path id="path5506" opacity=".5" d="m195.52 191.67c0 2.0503-1.6621 3.7123-3.7123 3.7123s-3.7123-1.662-3.7123-3.7123c0-2.0502 1.6621-3.7123 3.7123-3.7123 2.044 0 3.7034 1.6523 3.7123 3.6962" fill-rule="evenodd" transform="translate(-1.0607 308.27)" fill="#fff"/>
   <path id="path6484" marker-end="url(#TriangleOutMF)" d="m172.68 553.75c15.657 0.50508 16.562-4.6276 18.041-20.703 0.13742-17.483-0.076-37.567-0.0862-57.068-0.79797-55.789 25.764-45.864 72.967-46.167" stroke="#57d4fe" stroke-width="2" fill="none"/>
   <path id="path6108" marker-end="url(#TriangleOutMF)" d="m170.76 665.03c90.524 1.5585 44.29 0.81652 91.945 0.24048" stroke="#57d4fe" stroke-miterlimit="2.8" stroke-width="2" fill="none"/>
-  <path id="path5524" opacity=".5" d="m233 303.59a4 4 0 1 1 -0.00004 -0.0173" fill-rule="evenodd" transform="translate(24.395 306.27)" fill="#fff"/>
+  <path id="path5524" opacity=".5" d="m233 303.59c0 2.2091-1.7909 4-4 4s-4-1.7909-4-4 1.7909-4 4-4c2.2024 0 3.9904 1.7803 4 3.9827" fill-rule="evenodd" transform="translate(24.395 306.27)" fill="#fff"/>
   <path id="path6490" marker-end="url(#TriangleOutMH)" d="m270.1 551.1c-17.678 0.43649-11.944 16.409-12.41 35.268-0.94943 38.396-13.901 35.959-79.677 37.186" stroke="#fec157" stroke-width="2" fill="none"/>
   <a id="a8496" xlink:href="http://reeddesign.co.uk/kites/tricks/turtle.html">
    <g id="g5401">
     <rect id="rect2995" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="479.86" x="68.594" stroke-width="1px" fill="#57d4fe"/>
-    <text id="text3765" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="501.65302" x="120.43779" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan3273" y="501.65302" x="120.43779">Turtle</tspan></text>
+    <text id="text3765" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="501.65302" x="120.43779" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan3273" x="120.43779" y="501.65302">Turtle</tspan></text>
    </g>
   </a>
   <g id="g5062">
    <rect id="rect5219" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="537.18" x="68.594" stroke-width="1px" fill="#57d4fe"/>
-   <text id="text3777" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="559.88269" x="120.00314" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan3779" x="120.00314" y="559.88269">Pancake</tspan></text>
+   <text id="text3777" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="559.88269" x="120.00314" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan3779" y="559.88269" x="120.00314">Pancake</tspan></text>
   </g>
   <a id="a4722" xlink:href="http://reeddesign.co.uk/kites/tricks/axel.html">
    <g id="g4717">
     <rect id="rect5221" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="594.5" x="68.594" stroke-width="1px" fill="#57d4fe"/>
-    <text id="text3781" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="616.46606" x="120.64305" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan3783" y="616.46606" x="120.64305">Axel</tspan></text>
+    <text id="text3781" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="616.46606" x="120.64305" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan3783" x="120.64305" y="616.46606">Axel</tspan></text>
    </g>
   </a>
   <a id="a6434" xlink:href="http://reeddesign.co.uk/kites/tricks/cointoss.html">
    <g id="g6429">
     <rect id="rect5245" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="766.46" x="68.594" stroke-width="1px" fill="#57d4fe"/>
-    <text id="text5247" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="788.43024" x="120.18934" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5249" y="788.43024" x="120.18934">Coin Toss</tspan></text>
+    <text id="text5247" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="788.43024" x="120.18934" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5249" x="120.18934" y="788.43024">Coin Toss</tspan></text>
    </g>
   </a>
   <g id="g6087">
    <rect id="rect5239" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="709.14" x="68.594" stroke-width="1px" fill="#57d4fe"/>
-   <text id="text5253" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="731.10883" x="120.30276" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5255" y="731.10883" x="120.30276">Twist</tspan></text>
+   <text id="text5253" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="731.10883" x="120.30276" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5255" x="120.30276" y="731.10883">Twist</tspan></text>
   </g>
   <a id="a6782" xlink:href="http://reeddesign.co.uk/kites/tricks/insane.html">
    <g id="g6777">
     <rect id="rect5237" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="823.79" x="68.594" stroke-width="1px" fill="#57d4fe"/>
-    <text id="text5257" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="845.58148" x="119.95709" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5259" y="845.58148" x="119.95709">Insane</tspan></text>
+    <text id="text5257" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="845.58148" x="119.95709" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5259" x="119.95709" y="845.58148">Insane</tspan></text>
    </g>
   </a>
   <a id="a7468" xlink:href="http://reeddesign.co.uk/kites/tricks/fade.html">
    <g id="g7463">
     <rect id="rect5235" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="412.13" x="269.7" stroke-width="1px" fill="#fec157"/>
-    <text id="text3795" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="434.09613" x="321.061" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan3797" y="434.09613" x="321.061">Fade</tspan></text>
+    <text id="text3795" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="434.09613" x="321.061" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan3797" x="321.061" y="434.09613">Fade</tspan></text>
    </g>
   </a>
   <a id="a7816" xlink:href="http://reeddesign.co.uk/kites/tricks/rollingsusan.html">
    <g id="g7811">
     <rect id="rect5233" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="471.85" x="269.7" stroke-width="1px" fill="#fec157"/>
-    <text id="text3823" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="492.70514" x="321.23386" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan3825" y="492.70514" x="321.23386">Rolling Susan</tspan></text>
+    <text id="text3823" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="492.70514" x="321.23386" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan3825" x="321.23386" y="492.70514">Rolling Susan</tspan></text>
    </g>
   </a>
   <a id="a8854" xlink:href="http://reeddesign.co.uk/kites/tricks/cascade.html">
    <g id="g8849">
     <rect id="rect5229" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="651.03" x="269.7" stroke-width="1px" fill="#fec157"/>
-    <text id="text5197" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="672.99353" x="321.4985" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5199" y="672.99353" x="321.4985">Axel Cascade</tspan></text>
+    <text id="text5197" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="672.99353" x="321.4985" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5199" x="321.4985" y="672.99353">Axel Cascade</tspan></text>
    </g>
   </a>
   <g id="g10555">
    <rect id="rect5225" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="949.65" x="269.7" stroke-width="1px" fill="#fec157"/>
-   <text id="text5209" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="970.76453" x="321.061" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5211" x="321.061" y="970.76453">Pinwheel</tspan></text>
+   <text id="text5209" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="970.76453" x="321.061" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5211" y="970.76453" x="321.061">Pinwheel</tspan></text>
   </g>
   <g id="g9195">
    <rect id="rect5227" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="710.75" x="269.7" stroke-width="1px" fill="#fec157"/>
-   <text id="text5215" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="11px" y="731.86713" x="321.061" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5217" x="321.061" y="731.86713">2-point Landing</tspan></text>
+   <text id="text5215" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="11px" y="731.86713" x="321.061" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5217" y="731.86713" x="321.061">2-point Landing</tspan></text>
   </g>
   <a id="a8490" xlink:href="http://reeddesign.co.uk/kites/tricks/stall.html">
    <g id="g8155">
     <rect id="rect5336" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="531.58" x="269.7" stroke-width="1px" fill="#fec157"/>
-    <text id="text5338" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="553.52179" x="321.37659" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5340" y="553.52179" x="321.37659">Stall</tspan></text>
+    <text id="text5338" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="553.52179" x="321.37659" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5340" x="321.37659" y="553.52179">Stall</tspan></text>
    </g>
   </a>
   <g id="g7121">
    <rect id="rect5369" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="352.41" x="269.7" stroke-width="1px" fill="#fec157"/>
-   <text id="text5371" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="374.31238" x="321.4202" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5373" x="321.4202" y="374.31238">360°</tspan></text>
+   <text id="text5371" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="374.31238" x="321.4202" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5373" y="374.31238" x="321.4202">360°</tspan></text>
   </g>
   <g id="g9535">
    <rect id="rect5403" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="770.48" x="269.7" stroke-width="1px" fill="#fec157"/>
-   <text id="text5405" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="791.32684" x="321.0502" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5407" y="791.32684" x="321.0502">Rolling-up</tspan></text>
+   <text id="text5405" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="791.32684" x="321.0502" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5407" x="321.0502" y="791.32684">Rolling-up</tspan></text>
   </g>
   <g id="g9875">
    <rect id="rect5367" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="830.2" x="269.7" stroke-width="1px" fill="#fec157"/>
-   <text id="text5409" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="851.05115" x="321.26627" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5411" x="321.26627" y="851.05115">Refueling</tspan></text>
+   <text id="text5409" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="851.05115" x="321.26627" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5411" y="851.05115" x="321.26627">Refueling</tspan></text>
   </g>
   <g id="g8505">
    <rect id="rect3316" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="591.3" x="269.7" stroke-width="1px" fill="#fec157"/>
-   <text id="text5423" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="613.24609" x="321.26648" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5425" x="321.26648" y="613.24609">Double axel</tspan></text>
+   <text id="text5423" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="613.24609" x="321.26648" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5425" y="613.24609" x="321.26648">Double axel</tspan></text>
   </g>
   <a id="a11258" xlink:href="http://reeddesign.co.uk/kites/tricks/540.html">
    <g id="g11253">
     <rect id="rect5432" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="425.61" x="469.56" stroke-width="1px" fill="#fef857"/>
-    <text id="text5434" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="447.51694" x="521.22424" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5436" y="447.51694" x="521.22424">540°</tspan></text>
+    <text id="text5434" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="447.51694" x="521.22424" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5436" x="521.22424" y="447.51694">540°</tspan></text>
    </g>
   </a>
   <a id="a11608" xlink:href="http://reeddesign.co.uk/kites/tricks/lazysusan.html">
    <g id="g11603">
     <rect id="rect5443" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="479.3" x="469.56" stroke-width="1px" fill="#fef857"/>
-    <text id="text5445" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="500.05371" x="521.09467" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5447" y="500.05371" x="521.09467">Lazy Susan</tspan></text>
+    <text id="text5445" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="500.05371" x="521.09467" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5447" x="521.09467" y="500.05371">Lazy Susan</tspan></text>
    </g>
   </a>
   <a id="a11958" xlink:href="http://reeddesign.co.uk/kites/tricks/flapjack.html">
    <g id="g11953">
     <rect id="rect5462" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="532.99" x="469.56" stroke-width="1px" fill="#fef857"/>
-    <text id="text5464" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="553.88422" x="520.55719" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5466" y="553.88422" x="520.55719">Flapjack</tspan></text>
+    <text id="text5464" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="553.88422" x="520.55719" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5466" x="520.55719" y="553.88422">Flapjack</tspan></text>
    </g>
   </a>
   <a id="a10907" xlink:href="http://reeddesign.co.uk/kites/tricks/flicflac.html">
    <g id="g10901">
     <rect id="rect5473" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="371.92" x="469.56" stroke-width="1px" fill="#fef857"/>
-    <text id="text5475" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="394.62445" x="520.96783" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5477" y="394.62445" x="520.96783">Flic-Flac</tspan></text>
+    <text id="text5475" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="394.62445" x="520.96783" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5477" x="520.96783" y="394.62445">Flic-Flac</tspan></text>
    </g>
   </a>
-  <text id="text5486" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="982.68475" x="531.55365" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5488" y="0" x="0"><tspan id="tspan4476" font-weight="normal" style="baseline-shift:super" font-family="sans-serif" font-size="65.001%"/></tspan></text>
+  <text id="text5486" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="982.68475" x="531.55365" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5488" x="0" y="0"><tspan id="tspan4476" font-weight="normal" style="baseline-shift:super" font-family="sans-serif" font-size="65.001%"/></tspan></text>
   <a id="a12308" xlink:href="http://reeddesign.co.uk/kites/tricks/kombo.html">
    <g id="g12303">
     <rect id="rect5495" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="586.68" x="469.56" stroke-width="1px" fill="#fef857"/>
-    <text id="text5497" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="608.6463" x="521.1297" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5499" y="608.6463" x="521.1297">Kombo</tspan></text>
+    <text id="text5497" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="608.6463" x="521.1297" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5499" x="521.1297" y="608.6463">Kombo</tspan></text>
    </g>
   </a>
   <g id="g12649">
    <rect id="rect5506" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="640.37" x="469.56" stroke-width="1px" fill="#fef857"/>
-   <text id="text5508" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="661.05078" x="521.45917" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5510" x="521.45917" y="661.05078">Yo-Yo</tspan></text>
+   <text id="text5508" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="661.05078" x="521.45917" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5510" y="661.05078" x="521.45917">Yo-Yo</tspan></text>
   </g>
   <a id="a15754" xlink:href="http://reeddesign.co.uk/kites/tricks/backspin.html">
    <g id="g15749">
     <rect id="rect3297" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="34.427" width="125.29" stroke="#000" y="765.89" x="670.41" stroke-width="1px" fill="#fb89fe"/>
-    <text id="text5519" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="786.13538" x="732.98236" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5521" y="786.13538" x="732.98236">Backspin</tspan></text>
+    <text id="text5519" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="786.13538" x="732.98236" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5521" x="732.98236" y="786.13538">Backspin</tspan></text>
    </g>
   </a>
   <a id="a13688" xlink:href="http://reeddesign.co.uk/kites/tricks/slotmachine.html">
    <g id="g13683">
     <rect id="rect5528" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="801.44" x="469.56" stroke-width="1px" fill="#fef857"/>
-    <text id="text5530" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="823.40625" x="521.03247" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5532" y="823.40625" x="521.03247">Slot Machine</tspan></text>
+    <text id="text5530" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="823.40625" x="521.03247" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5532" x="521.03247" y="823.40625">Slot Machine</tspan></text>
    </g>
   </a>
   <g id="g10215">
    <rect id="rect3318" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="889.93" x="269.7" stroke-width="1px" fill="#fec157"/>
-   <text id="text5541" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="911.8678" x="321.23425" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5543" x="321.23425" y="911.8678">Dead Launch</tspan></text>
+   <text id="text5541" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="911.8678" x="321.23425" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5543" y="911.8678" x="321.23425">Dead Launch</tspan></text>
   </g>
   <g id="g14029">
    <rect id="rect5550" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="855.13" x="469.56" stroke-width="1px" fill="#fef857"/>
-   <text id="text5552" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="876.43994" x="521.13239" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5554" x="521.13239" y="876.43994">Insane (R-L)</tspan></text>
+   <text id="text5552" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="876.43994" x="521.13239" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5554" y="876.43994" x="521.13239">Insane (R-L)</tspan></text>
   </g>
   <g id="g15404">
    <rect id="rect5756" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="34.427" width="125.29" stroke="#000" y="705.93" x="670.41" stroke-width="1px" fill="#fb89fe"/>
-   <text id="text5602" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="728.00507" x="732.85626" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5606" x="732.85626" y="728.00507">K2000</tspan></text>
+   <text id="text5602" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="728.00507" x="732.85626" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5606" y="728.00507" x="732.85626">K2000</tspan></text>
   </g>
   <a id="a3670" xlink:href="http://reeddesign.co.uk/kites/tricks/multilazy.html">
    <g id="g3336">
     <rect id="rect5752" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="34.427" width="125.29" stroke="#000" y="406.14" x="670.41" stroke-width="1px" fill="#fb89fe"/>
-    <text id="text5571" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="426.36328" x="732.64709" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5573" y="426.36328" x="732.64709">Multilazy</tspan></text>
+    <text id="text5571" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="426.36328" x="732.64709" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5573" x="732.64709" y="426.36328">Multilazy</tspan></text>
    </g>
   </a>
   <a id="a16784" xlink:href="http://reeddesign.co.uk/kites/tricks/comet.html">
    <g id="g16779">
     <rect id="rect5754" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="34.427" width="125.29" stroke="#000" y="945.76" x="668.41" stroke-width="1px" fill="#fb89fe"/>
-    <text id="text5582" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="967.31909" x="731.04144" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5584" y="967.31909" x="731.04144">Comète</tspan></text>
+    <text id="text5582" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="967.31909" x="731.04144" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5584" x="731.04144" y="967.31909">Comète</tspan></text>
    </g>
   </a>
   <a id="a14378" xlink:href="http://reeddesign.co.uk/kites/tricks/jacobsladder.html">
    <g id="g14373">
     <rect id="rect5638" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="34.427" width="125.29" stroke="#000" y="466.1" x="670.41" stroke-width="1px" fill="#fb89fe"/>
-    <text id="text5593" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="486.36417" x="733.04138" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5595" y="486.36417" x="733.04138">Jacob&apos;s Ladder</tspan></text>
+    <text id="text5593" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="486.36417" x="733.04138" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5595" x="733.04138" y="486.36417">Jacob&apos;s Ladder</tspan></text>
    </g>
   </a>
   <g id="g15059">
    <rect id="rect5758" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="34.427" width="125.29" stroke="#000" y="586.01" x="670.41" stroke-width="1px" fill="#fb89fe"/>
-   <text id="text5610" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="607.35162" x="732.80914" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5612" x="732.80914" y="607.35162">Lewis</tspan></text>
+   <text id="text5610" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="607.35162" x="732.80914" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5612" y="607.35162" x="732.80914">Lewis</tspan></text>
   </g>
   <g id="g16095">
    <rect id="rect5760" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="34.427" width="125.29" stroke="#000" y="825.84" x="670.41" stroke-width="1px" fill="#fb89fe"/>
-   <text id="text5614" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="846.11011" x="733.28986" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5616" x="733.28986" y="846.11011">Torpille</tspan></text>
+   <text id="text5614" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="846.11011" x="733.28986" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5616" y="846.11011" x="733.28986">Torpille</tspan></text>
   </g>
   <g id="g14719">
    <rect id="rect5762" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="34.427" width="125.29" stroke="#000" y="526.06" x="670.41" stroke-width="1px" fill="#fb89fe"/>
-   <text id="text5618" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="546.27856" x="733.24664" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5620" x="733.24664" y="546.27856">Rolling Cascade</tspan></text>
+   <text id="text5618" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="546.27856" x="733.24664" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5620" y="546.27856" x="733.24664">Rolling Cascade</tspan></text>
   </g>
   <a id="a4374" xlink:href="http://reeddesign.co.uk/kites/tricks/wapdowap.html">
    <g id="g4369">
     <rect id="rect5764" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="34.427" width="125.29" stroke="#000" y="645.97" x="670.41" stroke-width="1px" fill="#fb89fe"/>
-    <text id="text5622" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="666.22009" x="733.14081" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5624" y="666.22009" x="733.14081">Wap-Doo-Wap</tspan></text>
+    <text id="text5622" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="666.22009" x="733.14081" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5624" x="733.14081" y="666.22009">Wap-Doo-Wap</tspan></text>
    </g>
   </a>
   <g id="g16435">
    <rect id="rect5766" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="34.427" width="125.29" stroke="#000" y="885.8" x="670.41" stroke-width="1px" fill="#fb89fe"/>
-   <text id="text5626" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="906.02454" x="733.0603" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5628" x="733.0603" y="906.02454">Yo-Yo Takeoff</tspan></text>
+   <text id="text5626" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="906.02454" x="733.0603" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5628" y="906.02454" x="733.0603">Yo-Yo Takeoff</tspan></text>
   </g>
   <a id="a3688" xlink:href="http://reeddesign.co.uk/kites/tricks/tazmachine.html">
    <g id="g3683">
     <rect id="rect5768" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="34.427" width="125.29" stroke="#000" y="346.18" x="670.41" stroke-width="1px" fill="#fb89fe"/>
-    <text id="text5630" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="367.52097" x="733.28986" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5632" y="367.52097" x="733.28986">Taz Machine</tspan></text>
+    <text id="text5630" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="367.52097" x="733.28986" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5632" x="733.28986" y="367.52097">Taz Machine</tspan></text>
    </g>
   </a>
   <path id="path5520" opacity=".5" d="m244.66 146.41c0 2.2455-1.8204 4.0659-4.0659 4.0659s-4.0659-1.8204-4.0659-4.0659 1.8204-4.0659 4.0659-4.0659c2.2386 0 4.0561 1.8096 4.0658 4.0483" fill-rule="evenodd" transform="translate(.70711 308.27)" fill="#fff"/>
-  <path id="path5526" opacity=".5" d="m246 125.09a5.5 5.5 0 1 1 -0.00005 -0.0238" fill-rule="evenodd" transform="translate(0 306.77)" fill="#fff"/>
+  <path id="path5526" opacity=".5" d="m246 125.09c0 3.0376-2.4624 5.5-5.5 5.5s-5.5-2.4624-5.5-5.5 2.4624-5.5 5.5-5.5c3.0283 0 5.4868 2.448 5.5 5.4762" fill-rule="evenodd" transform="translate(0 306.77)" fill="#fff"/>
   <path id="path3246" marker-end="url(#TriangleOutMF)" d="m169.02 657.1c21.617-0.90914 72.987-0.11623 73.593-20.521-0.50508-44.649-2.1518-209.37-0.42944-260 1.8523-29.615 12.399-35.544 69.672-36.219 91.533-1.079 179.14 8.5433 229.26 8.5074 65.446-0.0469 71.565 7.2773 122.91 7.0121" stroke="#57d4fe" stroke-width="2" fill="none"/>
   <a id="a17816" xlink:href="http://reeddesign.co.uk/kites/tricks/backspincascade.html">
    <g id="g17811">
     <rect id="rect5868" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="38.418" width="137.27" stroke="#000" y="751.75" x="870" stroke-width=".79014px" fill="#94fe89"/>
-    <text id="text5830" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="774.01556" x="938.79742" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5832" y="774.01556" x="938.79742">Backspin Cascade</tspan></text>
+    <text id="text5830" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="774.01556" x="938.79742" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5832" x="938.79742" y="774.01556">Backspin Cascade</tspan></text>
    </g>
   </a>
   <g id="g19535">
    <rect id="rect5926" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="38.418" width="137.27" stroke="#000" y="637.49" x="870" stroke-width=".79014px" fill="#94fe89"/>
-   <text id="text5834" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="659.61475" x="938.38153" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5836" x="938.38153" y="659.61475">Crazy Copter</tspan></text>
+   <text id="text5834" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="659.61475" x="938.38153" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5836" y="659.61475" x="938.38153">Crazy Copter</tspan></text>
   </g>
   <g id="g18515">
    <rect id="rect5928" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="38.418" width="137.27" stroke="#000" y="580.36" x="870" stroke-width="1px" fill="#94fe89"/>
-   <text id="text5838" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="602.58179" x="938.79199" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5840" x="938.79199" y="602.58179">Yo-Yo Multilazy</tspan></text>
+   <text id="text5838" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="602.58179" x="938.79199" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5840" y="602.58179" x="938.79199">Yo-Yo Multilazy</tspan></text>
   </g>
   <g id="g18855">
    <rect id="rect5930" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="38.418" width="137.27" stroke="#000" y="523.23" x="870" stroke-width="1px" fill="#94fe89"/>
-   <text id="text5842" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="545.4516" x="938.62457" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5844" x="938.62457" y="545.4516">Cynique</tspan></text>
+   <text id="text5842" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="545.4516" x="938.62457" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5844" y="545.4516" x="938.62457">Cynique</tspan></text>
   </g>
   <g id="g17126">
    <rect id="rect5932" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="38.418" width="137.27" stroke="#000" y="866.02" x="870" stroke-width="1px" fill="#94fe89"/>
-   <text id="text5846" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="889.34802" x="938.39233" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5848" x="938.39233" y="889.34802"><tspan id="tspan4506" font-family="sans-serif" font-size="11px">L</tspan>adole</tspan></text>
+   <text id="text5846" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="889.34802" x="938.39233" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5848" y="889.34802" x="938.39233"><tspan id="tspan4506" font-family="sans-serif" font-size="11px">L</tspan>adole</tspan></text>
   </g>
   <g id="g17467">
    <rect id="rect5934" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="38.418" width="137.27" stroke="#000" y="808.88" x="870" stroke-width="1px" fill="#94fe89"/>
-   <text id="text5850" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="832.21783" x="938.25726" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5852" x="938.25726" y="832.21783">Multislot</tspan></text>
+   <text id="text5850" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="832.21783" x="938.25726" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5852" y="832.21783" x="938.25726">Multislot</tspan></text>
   </g>
   <a id="a17834" xlink:href="http://reeddesign.co.uk/kites/tricks/yofade.html">
    <g id="g17829">
     <rect id="rect5936" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="38.418" width="137.27" stroke="#000" y="694.62" x="870" stroke-width="1px" fill="#94fe89"/>
-    <text id="text5854" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="717.95752" x="938.95404" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan5856" y="717.95752" x="938.95404">Yo-Fade</tspan></text>
+    <text id="text5854" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="717.95752" x="938.95404" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan5856" x="938.95404" y="717.95752">Yo-Fade</tspan></text>
    </g>
   </a>
   <g id="g12989">
    <rect id="rect4047" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="694.06" x="469.56" stroke-width="1px" fill="#fef857"/>
-   <text id="text4049" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="714.91089" x="521.03326" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan4051" y="714.91089" x="521.03326">Spike</tspan></text>
+   <text id="text4049" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="714.91089" x="521.03326" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan4051" x="521.03326" y="714.91089">Spike</tspan></text>
   </g>
   <a id="a13338" xlink:href="http://reeddesign.co.uk/kites/tricks/sideslide.html">
    <g id="g13333">
     <rect id="rect5484" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="747.75" x="469.56" stroke-width="1px" fill="#fef857"/>
-    <text id="text3281" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="769.69324" x="521.03326" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan3283" y="769.69324" x="521.03326">Slide</tspan></text>
+    <text id="text3281" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="769.69324" x="521.03326" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan3283" x="521.03326" y="769.69324">Slide</tspan></text>
    </g>
   </a>
   <a id="a5748" xlink:href="http://reeddesign.co.uk/kites/tricks/halfaxel.html">
    <g id="g5743">
     <rect id="rect5223" fill-rule="evenodd" rx="6.3853" ry="6.2206" height="35.683" width="103.21" stroke="#000" y="651.82" x="68.594" stroke-width="1px" fill="#57d4fe"/>
-    <text id="text3785" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" font-size="12px" y="673.78735" x="120.16232" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan3787" y="673.78735" x="120.16232">Half Axel</tspan></text>
+    <text id="text3785" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" font-size="12px" y="673.78735" x="120.16232" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan3787" x="120.16232" y="673.78735">Half Axel</tspan></text>
    </g>
   </a>
  </g>
  <g id="layer3">
-  <text id="text4406" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="114.39409" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan4408" y="1028.0537" x="114.39409">Group 1</tspan></text>
-  <text id="text4410" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="319.65683" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan4412" y="1028.0537" x="319.65683">Group 2</tspan></text>
-  <text id="text4414" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="524.76721" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan4416" y="1028.0537" x="524.76721">Group 3</tspan></text>
-  <text id="text4418" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="729.71942" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan4420" y="1028.0537" x="729.71942">Group 4</tspan></text>
-  <text id="text4422" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="935.01733" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan4424" y="1028.0537" x="935.01733">Group 5</tspan></text>
+  <text id="text4406" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" xml:space="preserve" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="114.39409" font-family="sans-serif" fill="#000000"><tspan id="tspan4408" x="114.39409" y="1028.0537">Group 1</tspan></text>
+  <text id="text4410" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" xml:space="preserve" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="319.65683" font-family="sans-serif" fill="#000000"><tspan id="tspan4412" x="319.65683" y="1028.0537">Group 2</tspan></text>
+  <text id="text4414" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" xml:space="preserve" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="524.76721" font-family="sans-serif" fill="#000000"><tspan id="tspan4416" x="524.76721" y="1028.0537">Group 3</tspan></text>
+  <text id="text4418" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" xml:space="preserve" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="729.71942" font-family="sans-serif" fill="#000000"><tspan id="tspan4420" x="729.71942" y="1028.0537">Group 4</tspan></text>
+  <text id="text4422" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" xml:space="preserve" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="935.01733" font-family="sans-serif" fill="#000000"><tspan id="tspan4424" x="935.01733" y="1028.0537">Group 5</tspan></text>
   <a id="a3681" xlink:href="http://www.rscreation.be" transform="translate(0 -308.27)">
-   <text id="text3259" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" transform="rotate(-90)" font-size="9px" y="1038.549" x="-685.68744" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan3263" x="-685.68744" y="1038.549">© zebul666@hotmail.com (CC) BY-NC</tspan><tspan id="tspan3267" x="-685.68744" y="1048.549">based on the work at www.rscreation.be</tspan></text>
+   <text id="text3259" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" transform="rotate(-90)" line-height="125%" xml:space="preserve" font-size="9px" y="1038.549" x="-685.68744" font-family="sans-serif" fill="#000000"><tspan id="tspan3263" y="1038.549" x="-685.68744">© zebul666@hotmail.com (CC) BY-NC</tspan><tspan id="tspan3267" y="1048.549" x="-685.68744">based on the work at www.rscreation.be</tspan></text>
   </a>
  </g>
  <g id="layer2" fill-rule="evenodd" stroke="#000" stroke-width="0.79">
