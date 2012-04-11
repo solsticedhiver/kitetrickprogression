@@ -1,5 +1,5 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="744.09" width="1052.4" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2" xmlns="http://www.w3.org/2000/svg" height="744.09" width="1052.4" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
  <title id="title6568">Kite Trick Progression</title>
  <defs id="defs4">
   <marker id="TriangleOutMF" refY="0.0" refX="0.0" orient="auto" overflow="visible">
@@ -20,9 +20,9 @@
   <path id="path4492" marker-end="url(#TriangleOutMF)" d="m70.004 609.01c-35.431-1.1046-28.284 71.457-27.299 105.45 1 16.5-4.5797 70.828 19.42 70.828" stroke="#57d4fe" stroke-width="2" fill="none"/>
   <path id="path6562" marker-end="url(#TriangleOutMH)" d="m370.37 416.46c81.561-2.9171 52.032-29.818 93.055-29.124" stroke="#fec157" stroke-width="2" fill="none"/>
   <path id="path4041" marker-end="url(#TriangleOutM5)" d="m468.64 195.32c-41.719 0.70711-40.533-26.368-90.03-24.954" transform="translate(0 308.27)" stroke="#676767" stroke-width="2" fill="none"/>
-  <path id="path3263" marker-end="url(#TriangleOutM5)" d="m573.11 190.43c18.385 0 48.487-5.5711 51.412 11.864 4.5711 32.224 8.6924 71.575 12.581 102.69 4 25.385 54.505 15.763 104.03 16.824 93.012-0.43934 77.694 23.127 124.01 25.249" transform="translate(0 308.27)" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path3263" marker-end="url(#TriangleOutM5)" d="m573.11 190.43c18.385 0 48.487-5.5711 51.412 11.864 4.5711 32.224 6.51 73.321 10.399 104.43 4 25.385 56.688 14.018 106.21 15.078 93.012-0.43934 77.694 23.127 124.01 25.249" transform="translate(0 308.27)" stroke="#676767" stroke-width="2" fill="none"/>
   <path id="path4038" marker-end="url(#TriangleOutMF)" d="m171 364.59c19 0 54 2 54.5 23-1.6916 31.822-10.688 33.745 38 33.5" transform="translate(0 308.27)" stroke="#57d4fe" stroke-width="2" fill="none"/>
-  <path id="path3257" marker-end="url(#TriangleOutM5)" d="m571.49 336.59c39.5-1 40.014-41.789 93.014-42.289" transform="translate(0 308.27)" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path4107-3-8" opacity=".5" d="m617.66 223.31a4.2426 4.2426 0 1 1 -0.00004 -0.0183" fill-rule="evenodd" transform="translate(20.362 386.46)" fill="#fff"/>
   <path id="path6486" marker-end="url(#TriangleOutMF)" d="m171.26 500.18c49.047-0.0878 31.001-4.9602 92.319-5.1021" stroke="#57d4fe" stroke-width="2" fill="none"/>
   <path id="path4494" marker-end="url(#TriangleOutMF)" d="m71.418 495.87c-16.971 1.4142-40.305 6.364-42.426 33.234-2.1213 24.749-6.364 259.51-5.6569 289.21-0.24457 29.902 26.039 23.667 39.462 24.163" stroke="#57d4fe" stroke-width="2" fill="none"/>
   <path id="path6498" marker-end="url(#TriangleOutMF)" d="m171.26 610.21c74.819 0.17301 34.516-1.7159 91.522-1.6795" stroke="#57d4fe" stroke-width="2" fill="none"/>
@@ -31,21 +31,24 @@
   <path id="path10314" marker-end="url(#TriangleOutMK)" d="m792.97 601.39c33.429 0.0714 42.018-1.0233 70.947-1.7377" stroke="#fb89fe" stroke-width="2" fill="none"/>
   <path id="path10310" marker-end="url(#TriangleOutM5)" d="m572.45 817.45c67.432-0.92127 111.06-1.3617 182.37-2.4276 61.736-0.9229 59.925 12.198 109.06 11.029" stroke="#676767" stroke-width="2" fill="none"/>
   <path id="path10306" marker-end="url(#TriangleOutMK)" d="m794.36 783.23c31.748 1.0967 31.294-8.9926 69.582-11.176" stroke="#fb89fe" stroke-width="2" fill="none"/>
-  <path id="path10302" marker-end="url(#TriangleOutM5)" d="m572.6 493.06c17.143-0.71428 62.746-6.146 65.539 18.954 4.2064 86.296-6.6583 89.632 26.317 90.575" stroke="#676767" stroke-width="2" fill="none"/>
-  <path id="path10298" marker-end="url(#TriangleOutM5)" d="m572.79 503.73c16.889 1.6679 37.765-0.63482 39.212 18.235 8.8423 27.026-14.304 136.26 52.75 134.52" stroke="#676767" stroke-width="2" fill="none"/>
-  <path id="path10294" marker-end="url(#TriangleOutM5)" d="m568.76 664.31c54.581 4.9683 22.783-8.7654 96.207-7.6562" stroke="#676767" stroke-width="2" fill="none"/>
-  <path id="path10290" marker-end="url(#TriangleOutM5)" d="m572.83 655.32c48.413-1.5031 67.628-14.488 161.07-14.67 82.469-0.0971 83.553 12.506 131.73 14.584" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10302" marker-end="url(#TriangleOutM5)" d="m572.6 493.06c17.143-0.71428 62.746-6.146 65.539 18.954 3.3334 49.195-1.857 89.196 26.317 90.575" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10298" marker-end="url(#TriangleOutM5)" d="m572.79 503.73c49.626-3.57 43.003 45.633 44.013 64.503 2.5146 28.401-6.0109 84.316 47.948 88.254" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path4107-3" opacity=".5" d="m617.66 223.31a4.2426 4.2426 0 1 1 -0.00004 -0.0183" fill-rule="evenodd" transform="translate(7.2675 393.88)" fill="#fff"/>
+  <path id="path3257" marker-end="url(#TriangleOutM5)" d="m571.49 336.59c39.5-1 40.014-41.789 93.014-42.289" transform="translate(0 308.27)" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10294" marker-end="url(#TriangleOutM5)" d="m570 655.06c50.878 0.03 53.03 1.1111 94.972 1.6031" stroke="#676767" stroke-width="2" fill="none"/>
+  <path id="path10290" marker-end="url(#TriangleOutM5)" d="m570.98 665.81c68.784 0.96603 27.504 25.636 142.55 24.836 144.2-1.3317 103.61-37.494 151.79-35.416" stroke="#676767" stroke-width="2" fill="none"/>
   <path id="path10262" marker-end="url(#TriangleOutM5)" d="m571.35 487.76c59.237-2.9527 54.173 4.5873 92.695 4.4224" stroke="#676767" stroke-width="2" fill="none"/>
   <path id="path10260" marker-end="url(#TriangleOutM5)" d="m571.2 442.6c57.166-0.20921 33.595-70.954 93.302-71.142" stroke="#676767" stroke-width="2" fill="none"/>
   <path id="path10258" marker-end="url(#TriangleOutM5)" d="m572.03 482.75c63.73 0.3022 42.652-58.278 92.215-57.542" stroke="#676767" stroke-width="2" fill="none"/>
   <path id="path10256" marker-end="url(#TriangleOutM5)" d="m573.58 509.7c27.963-0.90891 48.31 39.036 4.2752 39.4" stroke="#676767" stroke-width="2" fill="none"/>
   <path id="path4101" opacity=".5" d="m440.17 185.13c0 3.3195-2.2161 6.0104-4.9498 6.0104s-4.9497-2.691-4.9497-6.0104 2.2161-6.0104 4.9497-6.0104c2.7253 0 4.9379 2.6751 4.9497 5.9844" fill-rule="evenodd" transform="translate(2.8284 310.39)" fill="#fff"/>
   <path id="path4085" opacity=".5" d="m442.65 174.87c0 2.5384-2.0578 4.5962-4.5962 4.5962s-4.5962-2.0578-4.5962-4.5962 2.0578-4.5962 4.5962-4.5962c2.5306 0 4.5852 2.0457 4.5962 4.5763" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
+  <path id="path4107" opacity=".5" d="m617.66 223.31a4.2426 4.2426 0 1 1 -0.00004 -0.0183" fill-rule="evenodd" transform="translate(-12.222 303.9)" fill="#fff"/>
+  <path id="path4107-3-8-3" opacity=".5" d="m617.66 223.31a4.2426 4.2426 0 1 1 -0.00004 -0.0183" fill-rule="evenodd" transform="translate(6.3945 454.11)" fill="#fff"/>
   <path id="path10068" marker-end="url(#TriangleOutMH)" d="m373.12 435.64c30.406 0 64.59 24.069 65.359 49.029 0.58702 23.373 4.7949 127.85 5.4449 161.55 1.64 30.953 12.484 41.254 99.128 40.925 31.839-0.12093 102.75-17.228 121.22-17.118" stroke="#fec157" stroke-width="2" fill="none"/>
   <path id="path4105" opacity=".5" d="m596.8 219.42c0 2.3432-1.8995 4.2426-4.2426 4.2426s-4.2426-1.8995-4.2426-4.2426c0-2.3432 1.8995-4.2426 4.2426-4.2426 2.336 0 4.2325 1.8883 4.2426 4.2243" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
-  <path id="path4107" opacity=".5" d="m617.66 223.31c0 2.3432-1.8995 4.2426-4.2426 4.2426s-4.2426-1.8995-4.2426-4.2426 1.8995-4.2426 4.2426-4.2426c2.336 0 4.2325 1.8883 4.2426 4.2243" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
-  <path id="path4109" opacity=".5" d="m630.74 228.74c0 3.0014-1.5038 5.4346-3.3588 5.4346s-3.3588-2.4331-3.3588-5.4346c0-3.0014 1.5038-5.4346 3.3588-5.4346 1.8493 0 3.3507 2.4188 3.3587 5.4111" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
-  <path id="path4111" opacity=".5" d="m642.76 232.5c0 1.9526-1.5829 3.5355-3.5355 3.5355s-3.5355-1.5829-3.5355-3.5355 1.5829-3.5355 3.5355-3.5355c1.9466 0 3.5271 1.5736 3.5355 3.5202" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
+  <path id="path4109" opacity=".5" d="m630.74 228.74a3.3588 5.4346 0 1 1 -0.00003 -0.0235" fill-rule="evenodd" transform="translate(0 306.09)" fill="#fff"/>
+  <path id="path4111" opacity=".5" d="m642.76 232.5a3.5355 3.5355 0 1 1 -0.00003 -0.0153" fill-rule="evenodd" transform="translate(0 306.96)" fill="#fff"/>
   <path id="path4153" opacity=".5" d="m444.77 197.15c0 2.5384-2.0578 4.5962-4.5962 4.5962s-4.5962-2.0578-4.5962-4.5962 2.0578-4.5962 4.5962-4.5962c2.5306 0 4.5852 2.0457 4.5962 4.5763" fill-rule="evenodd" transform="translate(-1.0607 309.68)" fill="#fff"/>
   <path id="path4099" opacity=".5" d="m430.27 182.3c0 2.3432-1.8995 4.2426-4.2426 4.2426-2.3432 0-4.2426-1.8995-4.2426-4.2426s1.8995-4.2426 4.2426-4.2426c2.336 0 4.2325 1.8883 4.2426 4.2243" fill-rule="evenodd" transform="translate(.70711 308.27)" fill="#fff"/>
   <path id="path4103" opacity=".5" d="m614.48 163.91c0 2.9289-2.3744 5.3033-5.3033 5.3033s-5.3033-2.3744-5.3033-5.3033 2.3744-5.3033 5.3033-5.3033c2.92 0 5.2906 2.3604 5.3032 5.2804" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
@@ -54,6 +57,7 @@
   <path id="path4087" opacity=".5" d="m423.91 166.92c0 2.8313-2.2952 5.1265-5.1265 5.1265s-5.1265-2.2952-5.1265-5.1265 2.2952-5.1265 5.1265-5.1265c2.8226 0 5.1143 2.2817 5.1265 5.1043" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
   <path id="path6564" marker-end="url(#TriangleOutMH)" d="m370.67 443.41c15.372-1.1581 56.587 26.822 56.738 51.657 1.1432 32.321 2.9106 173.25 3.6106 213.01 3.5998 68.09 15.485 84.109 58.5 83.959 84.043-0.29267 124-11.202 174.91-10.769" stroke="#fec157" stroke-width="2" fill="none"/>
   <path id="path4117" opacity=".5" d="m430.63 193.79c0 2.2455-1.8204 4.0659-4.0659 4.0659s-4.0659-1.8204-4.0659-4.0659 1.8204-4.0659 4.0659-4.0659c2.2386 0 4.0562 1.8096 4.0658 4.0483" fill-rule="evenodd" transform="translate(0 306.5)" fill="#fff"/>
+  <path id="path4107-4" opacity=".5" d="m617.66 223.31a4.2426 4.2426 0 1 1 -0.00004 -0.0183" fill-rule="evenodd" transform="translate(-.15280 304.83)" fill="#fff"/>
   <path id="path6572" marker-end="url(#TriangleOutMH)" d="m372.72 488.91c72.261-0.0562 55.527 35.495 147.84 33.317 123.87-1.9619 101.3 21.534 143.09 20.101" stroke="#fec157" stroke-width="2" fill="none"/>
   <path id="path4115" opacity=".5" d="m434.52 280.06c0 2.8313-2.2952 5.1265-5.1265 5.1265s-5.1265-2.2952-5.1265-5.1265 2.2952-5.1265 5.1265-5.1265c2.8226 0 5.1143 2.2817 5.1265 5.1044" fill-rule="evenodd" transform="translate(0 308.27)" fill="#fff"/>
   <path id="path6566" marker-end="url(#TriangleOutMH)" d="m372.66 498.58c27.117 0.0101 38.996 39.21 42.04 60.579 2.0212 18.502 11.727 45.224 48.777 45.123" stroke="#fec157" stroke-width="2" fill="none"/>
