@@ -72,11 +72,14 @@ $(document).ready(function() {
 			$(rect).scrollintoview('normal');
 
 			// highlight trick box
-			var color = $(rect).attr('fill');
+			var fill = $(rect).attr('fill');
+			var stroke = $(rect).attr('stroke');
 			$(rect).attr('fill', '#ff0000');
+			$(rect).attr('stroke', '#ff0000');
 			// highlight for 1.5 second and return to normal
 			setTimeout(function() {
-				$(rect).attr('fill', color);
+				$(rect).attr('fill', fill);
+				$(rect).attr('stroke', stroke);
 				//re-enable qtip
 				$('[id^=g]').qtip('enable');
 			}, 1500);
