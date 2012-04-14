@@ -1,0 +1,14 @@
+{% extends "index.djt" %}
+
+{% block css %}
+	img { border: 0; }
+	.ui-tooltip { font-size: 1em; line-height: 1.3em; width: 280px;}
+{% endblock %}
+
+{% block search %}
+{# no search box #}
+{% endblock %}
+
+{% block schematic %}
+{% include "ktp.map" %}
+{% endblock %}
