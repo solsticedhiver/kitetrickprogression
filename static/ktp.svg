@@ -1,5 +1,5 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2" xmlns="http://www.w3.org/2000/svg" height="744.09" width="1052.4" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="744.09" width="1052.4" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <title id="title6568">Kite Trick Progression</title>
  <defs id="defs4">
   <marker id="TriangleOutMF" refY="0.0" refX="0.0" orient="auto" overflow="visible">
@@ -512,8 +512,14 @@
   <text id="text4414" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" xml:space="preserve" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="524.76721" font-family="sans-serif" fill="#000000"><tspan id="tspan4416" x="524.76721" y="1028.0537">Group 3</tspan></text>
   <text id="text4418" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" xml:space="preserve" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="729.71942" font-family="sans-serif" fill="#000000"><tspan id="tspan4420" x="729.71942" y="1028.0537">Group 4</tspan></text>
   <text id="text4422" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" xml:space="preserve" transform="translate(0 -308.27)" font-size="12px" y="1028.0537" x="935.01733" font-family="sans-serif" fill="#000000"><tspan id="tspan4424" x="935.01733" y="1028.0537">Group 5</tspan></text>
-  <a id="a3681" xlink:href="http://www.rscreation.be" transform="translate(0 -308.27)">
-   <text id="text3259" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" transform="rotate(-90)" line-height="125%" xml:space="preserve" font-size="9px" y="1038.549" x="-685.68744" font-family="sans-serif" fill="#000000"><tspan id="tspan3263" y="1038.549" x="-685.68744">© zebul666@hotmail.com (CC) BY-NC</tspan><tspan id="tspan3267" y="1049.799" x="-685.68744">based on the work at www.rscreation.be</tspan></text>
+  <a id="a4509" xlink:href="http://www.rscreation.be/cerf-volant-acrobatique/cerf-volant-acrobatique-freestyle/102-la-progression-de-figure-en-figure.html">
+   <text id="text4419" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" xml:space="preserve" transform="rotate(-90)" font-size="10px" y="1047.8795" x="-407.56821" font-family="DejaVu Sans" fill="#000000"><tspan id="tspan4423" font-size="9px" y="1047.8795" x="-407.56821">based on the work at www.rscreation.be</tspan></text>
+  </a>
+  <a id="a4505" xlink:href="mailto:zebul666@hotmail.com" transform="translate(0 6.9698)">
+   <text id="text3259" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" line-height="125%" transform="rotate(-90)" font-size="9px" y="1037.3268" x="-432.72678" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan4413" y="1037.3268" x="-432.72678">© zebul666@hotmail.com</tspan></text>
+  </a>
+  <a id="a4993" xlink:href="https://creativecommons.org/licenses/by-nc-sa/2.0/" transform="translate(0 -6.9698)">
+   <text id="text4453" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" transform="rotate(-90)" line-height="125%" xml:space="preserve" font-size="10px" y="1037.7047" x="-348.06635" font-family="DejaVu Sans" fill="#000000"><tspan id="tspan4455" font-size="9px" y="1037.7047" x="-348.06635">(CC) BY-NC</tspan></text>
   </a>
  </g>
  <g id="layer2" fill-rule="evenodd" stroke="#000" stroke-width="0.79">
