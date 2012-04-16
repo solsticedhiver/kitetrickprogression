@@ -12,7 +12,7 @@ $(document).ready(function() {
 			position: { my: 'left middle', at: 'right middle' },
 			style: { tip: true, classes: 'ui-tooltip-dark ui-tooltip-shadow' }
 		};
-		// grep 'id="g' static/kitetrickprogression.svg|cut -d '"' -f 2|while read i; do echo "'`sed -e '0,/'$i'/d' -e '/<\/g>/,$d' static/kitetrickprogression.svg|grep '</tspan'|sed 's/.*>\(.*\)<\/tspan.*/\1/'|sed -e 's/[ -°]//g' -e 's/è/e/'`': '#$i',"; done
+		// grep 'id="g' static/img/kitetrickprogression.svg|cut -d '"' -f 2|while read i; do echo "'`sed -e '0,/'$i'/d' -e '/<\/g>/,$d' static/img/kitetrickprogression.svg|grep '</tspan'|sed 's/.*>\(.*\)<\/tspan.*/\1/'|sed -e 's/[ -°]//g' -e 's/è/e/'`': '#$i',"; done
 		//
 		// id value of rect(angle) for each trick in the SVG
 		var tricks = {

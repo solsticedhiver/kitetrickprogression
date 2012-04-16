@@ -77,7 +77,7 @@
 {% include "ktp.svg" %}
 {% endblock %}
 
-<p class="small"><a href="/static/kitetrickprogression.svg">source SVG</a></p>
+<p class="small"><a href="/static/img/kitetrickprogression.svg">source SVG</a></p>
 
 <script type="text/javascript" src="/static/js/modernizr.custom.76319.js"></script>
 <script type="text/javascript" src="/static/js/jquery-1.7.2.min.js"></script>
