@@ -18,7 +18,7 @@
 <script type="text/javascript" src="/static/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="/static/js/jquery.scrollintoview.min.js"></script>
 <script type="text/javascript" src="/static/js/jquery.qtip.min.js?v=2"></script>
-<script type="text/javascript" src="/static/js/trick-tip.js?v=8"></script>
+<script type="text/javascript" src="/static/js/trick-tip.js?v=9"></script>
 {% endblock %}
 
 {% block content %}
@@ -26,7 +26,7 @@
 <p>Here is a schematic displaying the relations between <em>kite</em> tricks. There are displayed by group of difficulty as defined by the <a href="/static/TPTrickDefinitions.pdf">Tricks Party USA 2006 document</a>. The definitions of the trick, shown in the tooltips, are taken from that document too.</p>
 <p> Move the mouse cursor over each box to get a description of the trick. Each box with a dot is a link(clickable) to a video of the trick on <a href="http://reeddesign.co.uk">reeddesign.co.uk</a> website.</p>
 {% block search %}
-<p>Search for a trick:
+<p id="search_box">Search for a trick:
 <select>
 	<option value="T2pointLanding">2-point Landing</option>
 	<option value="T360">360°</option>

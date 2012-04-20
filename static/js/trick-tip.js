@@ -1,7 +1,22 @@
+var tmout;
+
+function updateNbSec() {
+	var nbsec = parseInt($('#nbsec').text())-1;
+	$('#nbsec').text(nbsec);
+	if (nbsec == 0) {
+		clearInterval(tmout);
+		location.href="/nosvg.html";
+	}
+}
+
 $(document).ready(function() {
 	if (!Modernizr.inlinesvg && ($('map').length == 0)) {
+		// hide search feature no available in nosvg.html
+		$('#search_box').hide();
 		// show red warning for old browser
-		$('svg').replaceWith('<p class="red">You need a modern browser supporting inline SVG, like IE9+, Firefox 4+, Opera 11.6+, Chrom[e/ium] 7+, Safari 5.1+, iOS Safari 5.0+, Android Browser 3.0+, Opera Mobile 12.0+ etc..., to be able to see this schematic.</p><p>Try the image only <a href="/nosvg.html">version</a></p>');
+		$('svg').replaceWith('<p class="red">You need a modern browser supporting inline SVG, like IE9+, Firefox 4+, Opera 11.6+, Chrom[e/ium] 7+, Safari 5.1+, iOS Safari 5.0+, Android Browser 3.0+, Opera Mobile 12.0+ etc..., to be able to see this schematic.</p><p>Try the image only <a href="/nosvg.html">version</a>. You will be automatically redirected in <span id="nbsec">30</span> seconds.</p>');
+		// redirect after 30 sec.
+		tmout = setInterval(updateNbSec, 1000);
 	} else {
 		// remove title tooltip for firefox
 		$('svg title').remove();
