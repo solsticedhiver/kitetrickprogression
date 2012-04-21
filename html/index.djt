@@ -7,6 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css?v=2">
 <style type="text/css">
 	body { margin: 0px 20px; font-size: 12px; font-family: sans-serif;}
+	.hidden { display: none; };
 	.small { font-size: 0.8em; }
 	.red { color: #ff0000; font-weight: bold; }
 	{% block css %}
@@ -14,67 +15,72 @@
 	{% endblock %}
 </style>
 
-<script type="text/javascript" src="/static/js/modernizr.custom.76319.js"></script>
+<script type="text/javascript" src="/static/js/modernizr.custom.86358.js"></script>
 <script type="text/javascript" src="/static/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="/static/js/jquery.scrollintoview.min.js"></script>
 <script type="text/javascript" src="/static/js/jquery.qtip.min.js?v=2"></script>
-<script type="text/javascript" src="/static/js/trick-tip.js?v=9"></script>
+<script type="text/javascript" src="/static/js/trick-tip.js?v=10"></script>
 {% endblock %}
 
 {% block content %}
 <h1>Kite Trick Progression</h1>
 <p>Here is a schematic displaying the relations between <em>kite</em> tricks. There are displayed by group of difficulty as defined by the <a href="/static/TPTrickDefinitions.pdf">Tricks Party USA 2006 document</a>. The definitions of the trick, shown in the tooltips, are taken from that document too.</p>
-<p> Move the mouse cursor over each box to get a description of the trick. Each box with a dot is a link(clickable) to a video of the trick on <a href="http://reeddesign.co.uk">reeddesign.co.uk</a> website.</p>
-{% block search %}
-<p id="search_box">Search for a trick:
-<select>
-	<option value="T2pointLanding">2-point Landing</option>
-	<option value="T360">360°</option>
-	<option value="T540">540°</option>
-	<option value="Axel">Axel</option>
-	<option value="AxelCascade">Axel Cascade</option>
-	<option value="Backspin">Backspin</option>
-	<option value="BackspinCascade">Backspin Cascade</option>
-	<option value="CrazyCopter">Crazy Copter</option>
-	<option value="CoinToss">Coin Toss</option>
-	<option value="Comete">Comète</option>
-	<option value="Cynique">Cynique</option>
-	<option value="DeadLaunch">Dead Launch</option>
-	<option value="Doubleaxel">Double axel</option>
-	<option value="Fade">Fade</option>
-	<option value="Flapjack">Flapjack</option>
-	<option value="FlicFlac">Flic-Flac</option>
-	<option value="HalfAxel">Half Axel</option>
-	<option value="Insane">Insane</option>
-	<option value="InsaneRL">Insane (R-L)</option>
-	<option value="JacobsLadder">Jacob's Ladder</option>
-	<option value="K2000">K2000</option>
-	<option value="Kombo">Kombo</option>
-	<option value="Ladole">Ladole</option>
-	<option value="LazySusan">Lazy Susan</option>
-	<option value="Lewis">Lewis</option>
-	<option value="Multilazy">Multilazy</option>
-	<option value="Multislot">Multislot</option>
-	<option value="Pancake">Pancake</option>
-	<option value="Pinwheel">Pinwheel</option>
-	<option value="Refueling">Refueling</option>
-	<option value="RollingCascade">Rolling Cascade</option>
-	<option value="RollingSusan">Rolling Susan</option>
-	<option value="Rollingup">Rolling-up</option>
-	<option value="Slide">Slide</option>
-	<option value="SlotMachine">Slot Machine</option>
-	<option value="Spike">Spike</option>
-	<option value="Stall">Stall</option>
-	<option value="TazMachine">Taz Machine</option>
-	<option value="Torpille">Torpille</option>
-	<option value="Turtle">Turtle</option>
-	<option value="Twist">Twist</option>
-	<option value="WapDooWap">Wap-Doo-Wap</option>
-	<option value="YoYo">Yo-Yo</option>
-	<option value="YoYoTakeoff">Yo-Yo Takeoff</option>
-	<option value="YoYoMultilazy">Yo-Yo Multilazy</option>
-	<option value="YoFade">Yo-Fade</option>
-</select>
+<p><span id="mouse">Move the mouse cursor over each box to get a description of the trick. </span>Each box with a dot is a link to a video of the trick on <a href="http://reeddesign.co.uk">reeddesign.co.uk</a> website.<span id="touch_event"></span></p>
+
+{% block options_para %}
+<p>
+	{% block search %}
+	<span id="search_box">Search for a trick:
+		<select>
+			<option value="T2pointLanding">2-point Landing</option>
+			<option value="T360">360°</option>
+			<option value="T540">540°</option>
+			<option value="Axel">Axel</option>
+			<option value="AxelCascade">Axel Cascade</option>
+			<option value="Backspin">Backspin</option>
+			<option value="BackspinCascade">Backspin Cascade</option>
+			<option value="CrazyCopter">Crazy Copter</option>
+			<option value="CoinToss">Coin Toss</option>
+			<option value="Comete">Comète</option>
+			<option value="Cynique">Cynique</option>
+			<option value="DeadLaunch">Dead Launch</option>
+			<option value="Doubleaxel">Double axel</option>
+			<option value="Fade">Fade</option>
+			<option value="Flapjack">Flapjack</option>
+			<option value="FlicFlac">Flic-Flac</option>
+			<option value="HalfAxel">Half Axel</option>
+			<option value="Insane">Insane</option>
+			<option value="InsaneRL">Insane (R-L)</option>
+			<option value="JacobsLadder">Jacob's Ladder</option>
+			<option value="K2000">K2000</option>
+			<option value="Kombo">Kombo</option>
+			<option value="Ladole">Ladole</option>
+			<option value="LazySusan">Lazy Susan</option>
+			<option value="Lewis">Lewis</option>
+			<option value="Multilazy">Multilazy</option>
+			<option value="Multislot">Multislot</option>
+			<option value="Pancake">Pancake</option>
+			<option value="Pinwheel">Pinwheel</option>
+			<option value="Refueling">Refueling</option>
+			<option value="RollingCascade">Rolling Cascade</option>
+			<option value="RollingSusan">Rolling Susan</option>
+			<option value="Rollingup">Rolling-up</option>
+			<option value="Slide">Slide</option>
+			<option value="SlotMachine">Slot Machine</option>
+			<option value="Spike">Spike</option>
+			<option value="Stall">Stall</option>
+			<option value="TazMachine">Taz Machine</option>
+			<option value="Torpille">Torpille</option>
+			<option value="Turtle">Turtle</option>
+			<option value="Twist">Twist</option>
+			<option value="WapDooWap">Wap-Doo-Wap</option>
+			<option value="YoYo">Yo-Yo</option>
+			<option value="YoYoTakeoff">Yo-Yo Takeoff</option>
+			<option value="YoYoMultilazy">Yo-Yo Multilazy</option>
+			<option value="YoFade">Yo-Fade</option>
+		</select>
+	</span>
+	{% endblock %}
 </p>
 {% endblock %}
 

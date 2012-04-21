@@ -13,8 +13,10 @@ $(document).ready(function() {
 	if (!Modernizr.inlinesvg && ($('map').length == 0)) {
 		// hide search feature no available in nosvg.html
 		$('#search_box').hide();
+
 		// show red warning for old browser
 		$('svg').replaceWith('<p class="red">You need a modern browser supporting inline SVG, like IE9+, Firefox 4+, Opera 11.6+, Chrom[e/ium] 7+, Safari 5.1+, iOS Safari 5.0+, Android Browser 3.0+, Opera Mobile 12.0+ etc..., to be able to see this schematic.</p><p>Try the image only <a href="/nosvg.html">version</a>. You will be automatically redirected in <span id="nbsec">30</span> seconds.</p>');
+
 		// redirect after 30 sec.
 		tmout = setInterval(updateNbSec, 1000);
 	} else {
@@ -27,6 +29,30 @@ $(document).ready(function() {
 			position: { my: 'left middle', at: 'right middle' },
 			style: { tip: true, classes: 'ui-tooltip-dark ui-tooltip-shadow' }
 		};
+
+		if (Modernizr.touch) {
+			$('#mouse').remove();
+			$('#touch_event').replaceWith('The first tap will show the tooltip. The second tap, while the tooltip is visible, will follow the link as usual.');
+			// don't show or hide qtip automatically
+			shared.show = false;
+			shared.hide = false;
+			$('area, [id^="g"]').bind('touchstart', function(e) {
+				e.preventDefault();
+				var tooltip = $(this).qtip('api').elements.tooltip;
+				if (tooltip === undefined || !tooltip.is(':visible')) {
+					// hide previously shown tooltip
+					$('.ui-tooltip').qtip('hide');
+					$(this).qtip('show');
+				} else {
+					$(this).qtip('hide');
+					// follow link if any
+					var href = $(this).attr('href');
+					if (href === undefined) href = $(this).parent('a').attr('xlink:href'); // try parent a in svg
+					if (href !== undefined) location.href = href;
+				}
+			});
+		}
+
 		// grep 'id="g' static/img/kitetrickprogression.svg|cut -d '"' -f 2|while read i; do echo "'`sed -e '0,/'$i'/d' -e '/<\/g>/,$d' static/img/kitetrickprogression.svg|grep '</tspan'|sed 's/.*>\(.*\)<\/tspan.*/\1/'|sed -e 's/[ -°]//g' -e 's/è/e/'`': '#$i',"; done
 		//
 		// id value of rect(angle) for each trick in the SVG
@@ -84,7 +110,7 @@ $(document).ready(function() {
 			var rect = tricks[$(this).val()]+' rect';
 
 			// disable qtip
-			$('[id^=g]').qtip('disable');
+			$('[id^="g"]').qtip('disable');
 			// scroll into view if not visible
 			$(rect).scrollintoview('normal');
 
@@ -98,7 +124,7 @@ $(document).ready(function() {
 				$(rect).attr('fill', fill);
 				$(rect).attr('stroke', stroke);
 				//re-enable qtip
-				$('[id^=g]').qtip('enable');
+				$('[id^="g"]').qtip('enable');
 			}, 1500);
 			//
 		});
