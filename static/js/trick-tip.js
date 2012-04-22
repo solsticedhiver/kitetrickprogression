@@ -51,6 +51,10 @@ $(document).ready(function() {
 					if (href !== undefined) location.href = href;
 				}
 			});
+
+			$('#hide_tooltip').show().click(function() {
+				$('.ui-tooltip').qtip('hide');
+			});
 		}
 
 		// grep 'id="g' static/img/kitetrickprogression.svg|cut -d '"' -f 2|while read i; do echo "'`sed -e '0,/'$i'/d' -e '/<\/g>/,$d' static/img/kitetrickprogression.svg|grep '</tspan'|sed 's/.*>\(.*\)<\/tspan.*/\1/'|sed -e 's/[ -°]//g' -e 's/è/e/'`': '#$i',"; done

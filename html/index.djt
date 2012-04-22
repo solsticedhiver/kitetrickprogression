@@ -81,6 +81,7 @@
 		</select>
 	</span>
 	{% endblock %}
+	&nbsp; &nbsp;<input class="hidden" type="button" id="hide_tooltip" value="Hide tooltip">
 </p>
 {% endblock %}
 
