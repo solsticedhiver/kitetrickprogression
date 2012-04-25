@@ -46,8 +46,7 @@ $(document).ready(function() {
 				} else {
 					$(this).qtip('hide');
 					// follow link if any
-					var href = $(this).attr('href');
-					if (href === undefined) href = $(this).parent('a').attr('xlink:href'); // try parent a in svg
+					var href = $(this).attr('href') || $(this).parent('a').attr('xlink:href'); // try parent a in svg
 					if (href !== undefined) location.href = href;
 				}
 			});
