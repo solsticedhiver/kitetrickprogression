@@ -12,7 +12,15 @@
 		font-size: 12px;
 		font-family: sans-serif;
 	}
-	h1 { background-color: #404040; padding: 15px; color: #f3f3f3; margin-top: 0;}
+	h1 {
+		background-image: url('static/img/kite.png');
+		background-repeat: no-repeat;
+		background-color: #404040;
+		background-position: 98% 50%;
+		padding: 15px;
+		color: #f3f3f3;
+		margin-top: 0;
+	}
 	p { margin-left: 10px; }
 	.hidden { display: none; };
 	.small { font-size: 0.8em; }
