@@ -1,4 +1,4 @@
-<img src="/static/img/kitetrickprogression.png" width="1052" height="744" alt="kite trick progression schematic" usemap="#map">
+<img src="/static/img/kitetrickprogression.png" width="1024" height="701" alt="kite trick progression schematic" usemap="#map">
 
 <map name="map">
 <!-- #$-:Image map file created by GIMP Image Map plug-in -->
@@ -6,50 +6,51 @@
 <!-- #$-:Please do not edit lines starting with "#$" -->
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR:zebul666     -->
-<area shape="rect" coords="70,173,170,206" alt="Turtle" href="http://reeddesign.co.uk/kites/tricks/turtle.html">
-<area shape="rect" coords="70,229,170,263" alt="Pancake">
-<area shape="rect" coords="69,288,170,321" alt="Axel" href="http://reeddesign.co.uk/kites/tricks/axel.html">
-<area shape="rect" coords="69,344,170,379" alt="HalfAxel" href="http://reeddesign.co.uk/kites/tricks/halfaxel.html">
-<area shape="rect" coords="69,402,170,435" alt="Twist">
-<area shape="rect" coords="68,459,170,494" alt="CoinToss" href="http://reeddesign.co.uk/kites/tricks/cointoss.html">
-<area shape="rect" coords="270,225,371,258" alt="Stall" href="http://reeddesign.co.uk/kites/tricks/stall.html">
-<area shape="rect" coords="270,284,372,317" alt="Doubleaxel">
-<area shape="rect" coords="270,343,371,377" alt="AxelCascade" href="http://reeddesign.co.uk/kites/tricks/cascade.html">
-<area shape="rect" coords="271,404,371,436" alt="T2pointLanding">
-<area shape="rect" coords="270,463,372,496" alt="Rollingup">
-<area shape="rect" coords="270,45,371,78" alt="T360">
-<area shape="rect" coords="271,104,370,138" alt="Fade" href="http://reeddesign.co.uk/kites/tricks/fade.html">
-<area shape="rect" coords="271,165,371,199" alt="RollingSusan" href="http://reeddesign.co.uk/kites/tricks/rollingsusan.html">
-<area shape="rect" coords="271,523,371,556" alt="Refueling">
-<area shape="rect" coords="270,582,372,616" alt="DeadLaunch">
-<area shape="rect" coords="271,643,372,676" alt="Pinwheel">
-<area shape="rect" coords="69,516,170,551" alt="Insane" href="http://reeddesign.co.uk/kites/tricks/insane.html">
-<area shape="rect" coords="472,549,571,581" alt="InsaneRL">
-<area shape="rect" coords="471,494,571,527" alt="SlotMachine" href="http://reeddesign.co.uk/kites/tricks/slotmachine.html">
-<area shape="rect" coords="471,440,571,474" alt="Slide" href="http://reeddesign.co.uk/kites/tricks/sideslide.html">
-<area shape="rect" coords="471,386,570,420" alt="Spike">
-<area shape="rect" coords="470,334,571,367" alt="YoYo">
-<area shape="rect" coords="470,280,572,313" alt="Kombo" href="http://reeddesign.co.uk/kites/tricks/kombo.html">
-<area shape="rect" coords="471,64,571,98" alt="FlicFlac" href="http://reeddesign.co.uk/kites/tricks/flicflac.html">
-<area shape="rect" coords="471,120,571,152" alt="T540" href="http://reeddesign.co.uk/kites/tricks/540.html">
-<area shape="rect" coords="471,173,571,205" alt="LazySusan" href="http://reeddesign.co.uk/kites/tricks/lazysusan.html">
-<area shape="rect" coords="471,226,570,259" alt="Flapjack" href="http://reeddesign.co.uk/kites/tricks/flapjack.html">
-<area shape="rect" coords="672,40,795,71" alt="TazMachine" href="http://reeddesign.co.uk/kites/tricks/tazmachine.html">
-<area shape="rect" coords="671,99,794,131" alt="Multilazy" href="http://reeddesign.co.uk/kites/tricks/multilazy.html">
-<area shape="rect" coords="670,160,793,191" alt="JacobsLadder" href="http://reeddesign.co.uk/kites/tricks/jacobsladder.html">
-<area shape="rect" coords="671,218,795,250" alt="RollingCascade">
-<area shape="rect" coords="672,278,793,311" alt="Lewis">
-<area shape="rect" coords="672,340,793,370" alt="WapDooWap" href="http://reeddesign.co.uk/kites/tricks/wapdowap.html">
-<area shape="rect" coords="672,399,793,431" alt="K2000">
-<area shape="rect" coords="671,458,794,491" alt="Backspin" href="http://reeddesign.co.uk/kites/tricks/backspin.html">
-<area shape="rect" coords="672,519,791,549" alt="Torpille">
-<area shape="rect" coords="672,578,793,609" alt="YoYoTakeoff">
-<area shape="rect" coords="669,639,791,670" alt="Comete" href="http://reeddesign.co.uk/kites/tricks/comet.html">
-<area shape="rect" coords="870,560,1005,594" alt="Ladole">
-<area shape="rect" coords="871,502,1005,536" alt="Multislot">
-<area shape="rect" coords="872,445,1005,479" alt="BackspinCascade" href="http://reeddesign.co.uk/kites/tricks/backspincascade.html">
-<area shape="rect" coords="871,386,1005,424" alt="YoFade" href="http://reeddesign.co.uk/kites/tricks/yofade.html">
-<area shape="rect" coords="871,331,1004,365" alt="CrazyCopter">
-<area shape="rect" coords="871,274,1005,310" alt="YoYoMultilazy">
-<area shape="rect" coords="871,216,1005,252" alt="Cynique">
+<area shape="rect" coords="40,147,140,181"  alt="Turtle" href="http://reeddesign.co.uk/kites/tricks/turtle.html">
+<area shape="rect" coords="39,204,141,236"  alt="Pancake">
+<area shape="rect" coords="40,261,143,295"  alt="Axel" href="http://reeddesign.co.uk/kites/tricks/axel.html">
+<area shape="rect" coords="40,319,140,352"  alt="HalfAxel" href="http://reeddesign.co.uk/kites/tricks/halfaxel.html">
+<area shape="rect" coords="41,377,141,408"  alt="Twist">
+<area shape="rect" coords="41,434,140,467"  alt="CoinToss" href="http://reeddesign.co.uk/kites/tricks/cointoss.html">
+<area shape="rect" coords="40,491,142,523"  alt="Insane" href="http://reeddesign.co.uk/kites/tricks/insane.html">
+<area shape="rect" coords="242,18,342,52"   alt="T360">
+<area shape="rect" coords="240,79,341,114"  alt="Fade" href="http://reeddesign.co.uk/kites/tricks/fade.html">
+<area shape="rect" coords="241,138,339,172" alt="RollingSusan" href="http://reeddesign.co.uk/kites/tricks/rollingsusan.html">
+<area shape="rect" coords="242,197,342,231" alt="Stall" href="http://reeddesign.co.uk/kites/tricks/stall.html">
+<area shape="rect" coords="242,258,342,291" alt="Doubleaxel">
+<area shape="rect" coords="243,317,342,351" alt="AxelCascade" href="http://reeddesign.co.uk/kites/tricks/cascade.html">
+<area shape="rect" coords="241,376,341,413" alt="T2pointLanding">
+<area shape="rect" coords="240,438,342,471" alt="Rollingup">
+<area shape="rect" coords="241,497,341,530" alt="Refueling">
+<area shape="rect" coords="242,556,341,590" alt="DeadLaunch">
+<area shape="rect" coords="239,614,342,650" alt="Pinwheel">
+<area shape="rect" coords="441,38,544,72"   alt="FlicFlac" href="http://reeddesign.co.uk/kites/tricks/flicflac.html">
+<area shape="rect" coords="440,93,544,125"  alt="T540" href="http://reeddesign.co.uk/kites/tricks/540.html">
+<area shape="rect" coords="442,146,542,181" alt="LazySusan" href="http://reeddesign.co.uk/kites/tricks/lazysusan.html">
+<area shape="rect" coords="442,200,541,234" alt="Flapjack" href="http://reeddesign.co.uk/kites/tricks/flapjack.html">
+<area shape="rect" coords="442,253,543,288" alt="Kombo" href="http://reeddesign.co.uk/kites/tricks/kombo.html">
+<area shape="rect" coords="443,308,543,339" alt="YoYo">
+<area shape="rect" coords="442,360,545,395" alt="Spike">
+<area shape="rect" coords="439,413,544,448" alt="Slide" href="http://reeddesign.co.uk/kites/tricks/sideslide.html">
+<area shape="rect" coords="442,468,543,501" alt="SlotMachine" href="http://reeddesign.co.uk/kites/tricks/slotmachine.html">
+<area shape="rect" coords="443,522,542,556" alt="InsaneRL">
+<area shape="rect" coords="642,11,765,46"   alt="TazMachine" href="http://reeddesign.co.uk/kites/tricks/tazmachine.html">
+<area shape="rect" coords="642,72,767,105"  alt="Multilazy" href="http://reeddesign.co.uk/kites/tricks/multilazy.html">
+<area shape="rect" coords="642,133,766,164" alt="JacobsLadder" href="http://reeddesign.co.uk/kites/tricks/jacobsladder.html">
+<area shape="rect" coords="643,193,765,224" alt="RollingCascade">
+<area shape="rect" coords="641,252,763,284" alt="Lewis">
+<area shape="rect" coords="642,312,764,344" alt="WapDooWap" href="http://reeddesign.co.uk/kites/tricks/wapdowap.html">
+<area shape="rect" coords="643,372,765,404" alt="K2000">
+<area shape="rect" coords="642,432,764,464" alt="Backspin" href="http://reeddesign.co.uk/kites/tricks/backspin.html">
+<area shape="rect" coords="643,493,765,525" alt="Torpille">
+<area shape="rect" coords="642,552,762,584" alt="YoYoTakeoff">
+<area shape="rect" coords="641,611,763,644" alt="Comete" href="http://reeddesign.co.uk/kites/tricks/comet.html">
+<area shape="rect" coords="841,190,975,228" alt="Cynique">
+<area shape="rect" coords="841,247,976,284" alt="YoYoMultilazy">
+<area shape="rect" coords="841,303,976,342" alt="CrazyCopter">
+<area shape="rect" coords="841,359,979,397" alt="YoFade" href="http://reeddesign.co.uk/kites/tricks/yofade.html">
+<area shape="rect" coords="843,418,977,455" alt="BackspinCascade" href="http://reeddesign.co.uk/kites/tricks/backspincascade.html">
+<area shape="rect" coords="841,474,977,514" alt="Multislot">
+<area shape="rect" coords="845,531,977,571" alt="Ladole">
 </map>
+<!-- vim: set filetype=html :-->

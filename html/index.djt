@@ -6,7 +6,13 @@
 
 <link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css?v=2">
 <style type="text/css">
-	body { margin: 0px 20px; font-size: 12px; font-family: sans-serif;}
+	body {
+		width: 1024px;
+		margin: auto;
+		font-size: 12px;
+		font-family: sans-serif;
+	}
+	h1 { background: #555; padding: 10px 15px; color: #fff; margin-top: 0;}
 	.hidden { display: none; };
 	.small { font-size: 0.8em; }
 	.red { color: #ff0000; font-weight: bold; }
