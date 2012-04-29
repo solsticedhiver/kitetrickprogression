@@ -12,7 +12,8 @@
 		font-size: 12px;
 		font-family: sans-serif;
 	}
-	h1 { background: #555; padding: 10px 15px; color: #fff; margin-top: 0;}
+	h1 { background-color: #404040; padding: 15px; color: #f3f3f3; margin-top: 0;}
+	p { margin-left: 10px; }
 	.hidden { display: none; };
 	.small { font-size: 0.8em; }
 	.red { color: #ff0000; font-weight: bold; }
@@ -36,7 +37,7 @@
 {% block options_para %}
 <p>
 	{% block search %}
-	<span id="search_box">Search for a trick:
+	<span id="search_box">Highlight a trick:
 		<select>
 			<option value="T2pointLanding">2-point Landing</option>
 			<option value="T360">360°</option>
