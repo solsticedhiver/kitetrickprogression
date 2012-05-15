@@ -5,6 +5,10 @@
 	.ui-tooltip { font-size: 1em; line-height: 1.3em; width: 280px;}
 {% endblock %}
 
+{% block redirect %}
+{# remove redirect to avoid infinite loop #}
+{% endblock %}
+
 {% block search %}
 {# no search box #}
 {% endblock %}

@@ -3,6 +3,12 @@
 {% block header %}
 <meta name="description" content="a schematic about the relation between kite trick and the way to progress">
 <meta name="keywords" content="kite,trick,progression,schematic,svg">
+{% block redirect %}
+<!-- IE < 8 does not support inline SVG and qtip2 bug with IE9. So, automatic redirect here -->
+<!--[if IE ]>
+<meta http-equiv="refresh" content="0; url=/nosvg.html">
+<![endif]-->
+{% endblock %}
 <link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css?v=3">
 <style type="text/css">
 	body {
