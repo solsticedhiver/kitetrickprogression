@@ -11,19 +11,24 @@
 {% endblock %}
 <link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css?v=4">
 <style type="text/css">
+	html { background-color: #eee;}
 	body {
+		border-left: 1px solid #ccc;
+		border-right: 1px solid #ccc;
+		background-color: #fff;
 		width: 1024px;
-		margin: auto;
+		margin: 0 auto 0 auto;
+		padding: 10px;
 		font-size: 12px;
 		font-family: sans-serif;
 	}
 	h1 {
 		background-image: url('static/img/kite.png');
 		background-repeat: no-repeat;
-		background-color: #404040;
 		background-position: 98% 50%;
-		padding: 15px;
-		color: #f3f3f3;
+		border-bottom: 1px solid #505050;
+		color: #404040;
+		padding: 20px 10px 20px 10px;
 		margin-top: 0;
 	}
 	p { margin-left: 10px; }
