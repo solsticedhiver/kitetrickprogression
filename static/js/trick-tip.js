@@ -27,7 +27,7 @@ $(document).ready(function() {
 		// An object containing all the values shared between tooltips
 		var shared = {
 			position: { my: 'left middle', at: 'right middle' },
-			style: { tip: true, classes: 'ui-tooltip-dark' }
+			style: { tip: true, classes: 'qtip-dark' }
 		};
 
 		if (Modernizr.touch) {

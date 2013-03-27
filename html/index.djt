@@ -9,7 +9,7 @@
 <meta http-equiv="refresh" content="0; url=/nosvg.html">
 <![endif]-->
 {% endblock %}
-<link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css?v=4">
+<link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css?v=5">
 <style type="text/css">
 	html { background-color: #eee;}
 	body {
@@ -43,8 +43,8 @@
 <script type="text/javascript" src="/static/js/modernizr.custom.86358.js"></script>
 <script type="text/javascript" src="/static/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="/static/js/jquery.scrollintoview.min.js"></script>
-<script type="text/javascript" src="/static/js/jquery.qtip.min.js?v=4"></script>
-<script type="text/javascript" src="/static/js/trick-tip.js?v=12"></script>
+<script type="text/javascript" src="/static/js/jquery.qtip.min.js?v=5"></script>
+<script type="text/javascript" src="/static/js/trick-tip.js?v=13"></script>
 {% endblock %}
 
 {% block content %}
