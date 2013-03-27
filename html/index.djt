@@ -3,12 +3,6 @@
 {% block header %}
 <meta name="description" content="a schematic about the relation between kite trick and the way to progress">
 <meta name="keywords" content="kite,trick,progression,schematic,svg">
-{% block redirect %}
-<!-- IE < 8 does not support inline SVG and qtip2 bug with IE9. So, automatic redirect here -->
-<!--[if IE ]>
-<meta http-equiv="refresh" content="0; url=/nosvg.html">
-<![endif]-->
-{% endblock %}
 <link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css?v=5">
 <style type="text/css">
 	html { background-color: #eee;}
@@ -40,6 +34,17 @@
 	{% endblock %}
 </style>
 
+{% block redirect %}
+<!-- IE < 8 does not support inline SVG and qtip2 bug with IE9 or IE10. So, automatic redirect here -->
+<!--[if IE ]>
+<script type="text/javascript">
+	window.location="/nosvg.html";
+</script>
+<noscript>
+	<meta http-equiv="refresh" content="0; url=/nosvg.html">
+</noscript>
+<![endif]-->
+{% endblock %}
 <script type="text/javascript" src="/static/js/modernizr.custom.86358.js"></script>
 <script type="text/javascript" src="/static/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="/static/js/jquery.scrollintoview.min.js"></script>
