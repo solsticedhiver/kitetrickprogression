@@ -11,7 +11,7 @@ function updateNbSec() {
 
 $(document).ready(function() {
 	if (!Modernizr.inlinesvg && ($('map').length == 0)) {
-		// hide search feature no available in nosvg.html
+		// hide search feature not available in nosvg.html
 		$('#search_box').hide();
 
 		// show red warning for old browser
