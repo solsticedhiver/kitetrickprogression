@@ -40,8 +40,8 @@ $(document).ready(function() {
 				e.preventDefault();
 				var tooltip = $(this).qtip('api').elements.tooltip;
 				if (tooltip === undefined || !tooltip.is(':visible')) {
-					// hide previously shown tooltip
-					$('.ui-tooltip').qtip('hide');
+					// add a close button
+					$(this).qtip('api').set('content.title.button', true);
 					$(this).qtip('show');
 				} else {
 					$(this).qtip('hide');
@@ -49,10 +49,6 @@ $(document).ready(function() {
 					var href = $(this).attr('href') || $(this).parent('a').attr('xlink:href'); // try parent a in svg
 					if (href !== undefined) location.href = href;
 				}
-			});
-
-			$('#hide_tooltip').show().click(function() {
-				$('.ui-tooltip').qtip('hide');
 			});
 		}
 
