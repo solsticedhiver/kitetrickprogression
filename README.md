@@ -2,7 +2,7 @@ Hosted on https://kitetrickprogression.surge.sh
 
 # Exercise to use a SVG image
 
-It was first started as an exercise to create and use a SVG diagram with inskscape; then a simple one page site was built around it.
+Iat first, it started as an exercise to create and use a SVG diagram with inskscape; then a simple one page site was built around it.
 And then it was refined with small features here and there.
 
 ## Improvement on the SVG
