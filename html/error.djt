@@ -1,6 +1,0 @@
-{% extends "base.djt" %}
-{% block title %}Error - {{ super() }}{% endblock %}
-
-{% block content %}
-{{ content|safe }}
-{% endblock %}
